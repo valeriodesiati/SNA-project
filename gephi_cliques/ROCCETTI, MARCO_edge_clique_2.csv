@@ -1,0 +1,7 @@
+Source,Target,Attributes
+"CONFORTI, VITO","FERRETTI, STEFANO",{'weight': 0.05}
+"CONFORTI, VITO","MIRRI, SILVIA",{'weight': 0.05}
+"CONFORTI, VITO","ROCCETTI, MARCO",{'weight': 0.05}
+"FERRETTI, STEFANO","MIRRI, SILVIA",{'weight': 0.9}
+"FERRETTI, STEFANO","ROCCETTI, MARCO",{'weight': 2.95}
+"ROCCETTI, MARCO","MIRRI, SILVIA",{'weight': 1.2}

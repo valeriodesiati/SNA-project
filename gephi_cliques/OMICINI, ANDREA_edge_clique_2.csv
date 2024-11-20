@@ -1,0 +1,7 @@
+Source,Target,Attributes
+"DENTI, ENRICO","OMICINI, ANDREA",{'weight': 1.4}
+"DENTI, ENRICO","RUBINO, ROSSELLA",{'weight': 0.2}
+"DENTI, ENRICO","SARTOR, GIOVANNI",{'weight': 0.05}
+"OMICINI, ANDREA","SARTOR, GIOVANNI",{'weight': 0.1}
+"OMICINI, ANDREA","RUBINO, ROSSELLA",{'weight': 0.1}
+"RUBINO, ROSSELLA","SARTOR, GIOVANNI",{'weight': 0.05}

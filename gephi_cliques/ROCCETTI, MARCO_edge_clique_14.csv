@@ -1,0 +1,7 @@
+Source,Target,Attributes
+"MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}
+"MARFIA, GUSTAVO","AMOROSO, ALESSANDRO",{'weight': 1.2}
+"MARFIA, GUSTAVO","BUJARI, ARMIR",{'weight': 0.1}
+"ROCCETTI, MARCO","AMOROSO, ALESSANDRO",{'weight': 1.4}
+"ROCCETTI, MARCO","BUJARI, ARMIR",{'weight': 0.1}
+"AMOROSO, ALESSANDRO","BUJARI, ARMIR",{'weight': 0.05}

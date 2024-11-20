@@ -1,0 +1,7 @@
+Source,Target,Attributes
+G. PAU,"GHINI, VITTORIO",{'weight': 0.05}
+G. PAU,"ROCCETTI, MARCO",{'weight': 0.05}
+G. PAU,"SALOMONI, PAOLA",{'weight': 0.05}
+"GHINI, VITTORIO","ROCCETTI, MARCO",{'weight': 0.25}
+"GHINI, VITTORIO","SALOMONI, PAOLA",{'weight': 0.25}
+"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}

@@ -1,0 +1,11 @@
+Source,Target,Attributes
+"VITALI, FABIO","MIRRI, SILVIA",{'weight': 0.25}
+"VITALI, FABIO","SALOMONI, PAOLA",{'weight': 0.25}
+"VITALI, FABIO","ROCCETTI, MARCO",{'weight': 0.05}
+"VITALI, FABIO","MARFIA, GUSTAVO",{'weight': 0.05}
+"MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}
+"MARFIA, GUSTAVO","SALOMONI, PAOLA",{'weight': 0.25}
+"MARFIA, GUSTAVO","MIRRI, SILVIA",{'weight': 0.05}
+"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}
+"ROCCETTI, MARCO","MIRRI, SILVIA",{'weight': 1.2}
+"SALOMONI, PAOLA","MIRRI, SILVIA",{'weight': 3.95}

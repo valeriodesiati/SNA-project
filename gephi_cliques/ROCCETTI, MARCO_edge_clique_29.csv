@@ -1,0 +1,11 @@
+Source,Target,Attributes
+"CERVINI, CRISTIANA","SALOMONI, PAOLA",{'weight': 0.1}
+"CERVINI, CRISTIANA","ROCCETTI, MARCO",{'weight': 0.1}
+"CERVINI, CRISTIANA","CECCHERELLI, ANDREA",{'weight': 0.1}
+"CERVINI, CRISTIANA","Valva, Antonella",{'weight': 0.05}
+"CECCHERELLI, ANDREA","SALOMONI, PAOLA",{'weight': 0.1}
+"CECCHERELLI, ANDREA","ROCCETTI, MARCO",{'weight': 0.1}
+"CECCHERELLI, ANDREA","Valva, Antonella",{'weight': 0.05}
+"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}
+"ROCCETTI, MARCO","Valva, Antonella",{'weight': 0.05}
+"Valva, Antonella","SALOMONI, PAOLA",{'weight': 0.05}

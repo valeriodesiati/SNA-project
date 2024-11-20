@@ -1,0 +1,4 @@
+Source,Target,Attributes
+"VITALI, FABIO","CIANCARINI, PAOLO",{'weight': 0.55}
+"VITALI, FABIO","ROCCETTI, MARCO",{'weight': 0.05}
+"CIANCARINI, PAOLO","ROCCETTI, MARCO",{'weight': 0.1}

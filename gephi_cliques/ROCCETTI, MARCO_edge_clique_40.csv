@@ -1,0 +1,7 @@
+Source,Target,Attributes
+"FERRETTI, STEFANO","ROCCETTI, MARCO",{'weight': 2.95}
+"FERRETTI, STEFANO",G. Pau,{'weight': 0.45}
+"FERRETTI, STEFANO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.1}
+G. Pau,"ROCCETTI, MARCO",{'weight': 1.05}
+G. Pau,"PALAZZI, CLAUDIO ENRICO",{'weight': 0.3}
+"ROCCETTI, MARCO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.4}

@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import pandas as pd
+
 def simple_scraper(url):
-    # i = 0
     data_list = []  
     response = requests.get(url)
     if response.status_code == 200:
@@ -13,15 +14,12 @@ def simple_scraper(url):
             for paragraph in paragraphs:
                 links = paragraph.find_all('a', href=True)
                 for link in links:
-                    # i += 1
-                    # if (i % 20) == 0:
-                    #     print(i)
                     href = link['href']
                     title = link.get_text().strip() 
                     contributors = visit_and_extract_internal_contributors(href)
                     data_list.append({
                         "Paper Title": title,
-                        "Contributors": "".join(contributors)
+                        "Contributors": "; ".join(contributors)
                     })
     else:
         print(f"Request error, status code: {response.status_code}")
@@ -45,10 +43,22 @@ def visit_and_extract_internal_contributors(url):
         print(f"Error while fetching {url}: {e}")
     return contributors
 
+def clean_contributors(contributors):
+    if pd.isna(contributors):
+        return ""
+    contributors_list = [name.strip() for name in contributors.split(';') if name.strip()]
+    return '; '.join(contributors_list)
+
+def clean():
+    df = pd.read_csv('papers_data.csv')
+    df['Contributors'] = df['Contributors'].apply(clean_contributors)
+    df.to_csv('papers_data.csv', index=False)
+
 def main():
+    # url = 'https://disi.unibo.it/it/ricerca/pubblicazioni?&pagesize=100'
     url = 'https://disi.unibo.it/it/ricerca/pubblicazioni?&pagesize=7523'
     simple_scraper(url)
-
+    clean()
+    
 if __name__ == "__main__":
     main()
-

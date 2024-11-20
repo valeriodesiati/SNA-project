@@ -1,0 +1,11 @@
+Source,Target,Attributes
+F. Vitali,"SALOMONI, PAOLA",{'weight': 0.05}
+F. Vitali,"DONATIELLO, LORENZO",{'weight': 0.05}
+F. Vitali,"MARTINI, SIMONE",{'weight': 0.05}
+F. Vitali,"ROCCETTI, MARCO",{'weight': 0.05}
+"DONATIELLO, LORENZO","SALOMONI, PAOLA",{'weight': 0.05}
+"DONATIELLO, LORENZO","MARTINI, SIMONE",{'weight': 0.05}
+"DONATIELLO, LORENZO","ROCCETTI, MARCO",{'weight': 0.05}
+"MARTINI, SIMONE","SALOMONI, PAOLA",{'weight': 0.05}
+"MARTINI, SIMONE","ROCCETTI, MARCO",{'weight': 0.05}
+"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}

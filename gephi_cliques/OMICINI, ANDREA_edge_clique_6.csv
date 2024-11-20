@@ -1,0 +1,4 @@
+Source,Target,Attributes
+"ZAGHINI, NICOLA","OMICINI, ANDREA",{'weight': 0.1}
+"ZAGHINI, NICOLA","RICCI, ALESSANDRO",{'weight': 0.1}
+"OMICINI, ANDREA","RICCI, ALESSANDRO",{'weight': 3.1}

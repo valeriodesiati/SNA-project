@@ -70,5 +70,5 @@ if len(sys.argv) > 1:
 else:
     filter_author = None  
 
-file_path = 'data.csv'
+file_path = 'papers_data.csv'
 create_author_collaboration_graph(file_path, filter_author)
