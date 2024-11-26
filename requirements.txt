@@ -5,3 +5,5 @@ matplotlib
 csv
 numpy
 pandas
+scipy
+python-louvain

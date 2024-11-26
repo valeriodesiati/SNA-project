@@ -1,7 +1,4 @@
 Source,Target,Attributes
-"BOARI, MAURELIO","CORRADI, ANTONIO",{'weight': 0.1}
-"BOARI, MAURELIO","ROCCETTI, MARCO",{'weight': 0.1}
-"BOARI, MAURELIO",M. Colajanni,{'weight': 0.05}
-"CORRADI, ANTONIO","ROCCETTI, MARCO",{'weight': 0.1}
-"CORRADI, ANTONIO",M. Colajanni,{'weight': 0.05}
-M. Colajanni,"ROCCETTI, MARCO",{'weight': 0.05}
+A. Bujari,"MARFIA, GUSTAVO",{'weight': 0.05}
+A. Bujari,"ROCCETTI, MARCO",{'weight': 0.05}
+"MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}

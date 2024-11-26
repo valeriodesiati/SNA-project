@@ -18,3 +18,5 @@ To filter the data by the author's name when running the program, you can specif
 ```
 python main.py "Giallorenzo, Saverio"
 ```
+
+You can refer to the Jupyter Notebook ```metrics.ipynb``` for the metrics used in the analysis.

@@ -1,4 +1,11 @@
 Source,Target,Attributes
-"OMICINI, ANDREA","CIATTO, GIOVANNI",{'weight': 0.1}
-"OMICINI, ANDREA","Mariani, Stefano",{'weight': 0.1}
-"Mariani, Stefano","CIATTO, GIOVANNI",{'weight': 0.1}
+"DENTI, ENRICO","OMICINI, ANDREA",{'weight': 1.4}
+"DENTI, ENRICO","PIANCASTELLI, GIULIO",{'weight': 0.15}
+"DENTI, ENRICO","RICCI, ALESSANDRO",{'weight': 0.55}
+"DENTI, ENRICO","VIROLI, MIRKO",{'weight': 0.15}
+"VIROLI, MIRKO","RICCI, ALESSANDRO",{'weight': 3.05}
+"VIROLI, MIRKO","OMICINI, ANDREA",{'weight': 4.15}
+"VIROLI, MIRKO","PIANCASTELLI, GIULIO",{'weight': 0.1}
+"PIANCASTELLI, GIULIO","OMICINI, ANDREA",{'weight': 0.25}
+"PIANCASTELLI, GIULIO","RICCI, ALESSANDRO",{'weight': 0.15}
+"OMICINI, ANDREA","RICCI, ALESSANDRO",{'weight': 3.1}

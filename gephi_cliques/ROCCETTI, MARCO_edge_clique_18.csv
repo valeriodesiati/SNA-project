@@ -1,11 +1,11 @@
 Source,Target,Attributes
 "MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}
+"MARFIA, GUSTAVO","SALOMONI, PAOLA",{'weight': 0.25}
+"MARFIA, GUSTAVO","Prandi, Catia",{'weight': 0.1}
 "MARFIA, GUSTAVO","MIRRI, SILVIA",{'weight': 0.05}
-"MARFIA, GUSTAVO","BUJARI, ARMIR",{'weight': 0.1}
-"MARFIA, GUSTAVO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.1}
+"SALOMONI, PAOLA","MIRRI, SILVIA",{'weight': 3.95}
+"SALOMONI, PAOLA","ROCCETTI, MARCO",{'weight': 2.55}
+"SALOMONI, PAOLA","Prandi, Catia",{'weight': 0.15}
+"ROCCETTI, MARCO","Prandi, Catia",{'weight': 0.15}
 "ROCCETTI, MARCO","MIRRI, SILVIA",{'weight': 1.2}
-"ROCCETTI, MARCO","BUJARI, ARMIR",{'weight': 0.1}
-"ROCCETTI, MARCO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.4}
-"BUJARI, ARMIR","PALAZZI, CLAUDIO ENRICO",{'weight': 0.05}
-"BUJARI, ARMIR","MIRRI, SILVIA",{'weight': 0.05}
-"MIRRI, SILVIA","PALAZZI, CLAUDIO ENRICO",{'weight': 0.05}
+"MIRRI, SILVIA","Prandi, Catia",{'weight': 0.1}

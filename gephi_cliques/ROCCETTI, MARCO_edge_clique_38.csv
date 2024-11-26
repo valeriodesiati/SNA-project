@@ -1,7 +1,7 @@
 Source,Target,Attributes
 "MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}
-"MARFIA, GUSTAVO",G. Pau,{'weight': 0.45}
-"MARFIA, GUSTAVO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.1}
-G. Pau,"ROCCETTI, MARCO",{'weight': 1.05}
-G. Pau,"PALAZZI, CLAUDIO ENRICO",{'weight': 0.3}
-"ROCCETTI, MARCO","PALAZZI, CLAUDIO ENRICO",{'weight': 0.4}
+"MARFIA, GUSTAVO","AMOROSO, ALESSANDRO",{'weight': 1.2}
+"MARFIA, GUSTAVO","BUJARI, ARMIR",{'weight': 0.1}
+"ROCCETTI, MARCO","AMOROSO, ALESSANDRO",{'weight': 1.4}
+"ROCCETTI, MARCO","BUJARI, ARMIR",{'weight': 0.1}
+"AMOROSO, ALESSANDRO","BUJARI, ARMIR",{'weight': 0.05}

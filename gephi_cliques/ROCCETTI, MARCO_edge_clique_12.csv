@@ -1,4 +1,7 @@
 Source,Target,Attributes
-"VITALI, FABIO","CIANCARINI, PAOLO",{'weight': 0.55}
-"VITALI, FABIO","ROCCETTI, MARCO",{'weight': 0.05}
-"CIANCARINI, PAOLO","ROCCETTI, MARCO",{'weight': 0.1}
+"SALOMONI, PAOLA","ROCCETTI, MARCO",{'weight': 2.55}
+"SALOMONI, PAOLA","GHINI, VITTORIO",{'weight': 0.25}
+"SALOMONI, PAOLA",G. PAU,{'weight': 0.05}
+G. PAU,"GHINI, VITTORIO",{'weight': 0.05}
+G. PAU,"ROCCETTI, MARCO",{'weight': 0.05}
+"ROCCETTI, MARCO","GHINI, VITTORIO",{'weight': 0.25}

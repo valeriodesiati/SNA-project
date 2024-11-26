@@ -1,0 +1,16 @@
+Source,Target,Attributes
+Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
+Gianluigi Zavattaro,Lorenzo Bacchiani,{'weight': 0.05}
+Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
+Gianluigi Zavattaro,Maurizio Gabbrielli,{'weight': 0.05}
+Gianluigi Zavattaro,Stefano Pio Zingaro,{'weight': 0.05}
+Mario Bravetti,Lorenzo Bacchiani,{'weight': 0.05}
+Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}
+Mario Bravetti,Maurizio Gabbrielli,{'weight': 0.05}
+Mario Bravetti,Stefano Pio Zingaro,{'weight': 0.05}
+Lorenzo Bacchiani,Saverio Giallorenzo,{'weight': 0.05}
+Lorenzo Bacchiani,Maurizio Gabbrielli,{'weight': 0.05}
+Lorenzo Bacchiani,Stefano Pio Zingaro,{'weight': 0.05}
+Maurizio Gabbrielli,Stefano Pio Zingaro,{'weight': 0.25}
+Maurizio Gabbrielli,Saverio Giallorenzo,{'weight': 0.1}
+Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
