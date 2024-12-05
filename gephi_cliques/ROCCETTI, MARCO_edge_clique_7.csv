@@ -1,7 +1,4 @@
 Source,Target,Attributes
-"MURATORI, LUDOVICO ANTONIO","SALOMONI, PAOLA",{'weight': 1.05}
-"MURATORI, LUDOVICO ANTONIO","PAU, GIOVANNI",{'weight': 0.1}
-"MURATORI, LUDOVICO ANTONIO","ROCCETTI, MARCO",{'weight': 0.3}
-"SALOMONI, PAOLA","ROCCETTI, MARCO",{'weight': 2.55}
-"SALOMONI, PAOLA","PAU, GIOVANNI",{'weight': 0.15}
-"ROCCETTI, MARCO","PAU, GIOVANNI",{'weight': 0.05}
+A. Bujari,"MARFIA, GUSTAVO",{'weight': 0.05}
+A. Bujari,"ROCCETTI, MARCO",{'weight': 0.05}
+"ROCCETTI, MARCO","MARFIA, GUSTAVO",{'weight': 3.7}

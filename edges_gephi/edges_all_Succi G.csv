@@ -1,4 +1,4 @@
 Source,Target,Attributes
-Russo B,Succi G,{'weight': 0.05}
-Succi G,Ciancarini P,{'weight': 0.5}
-Succi G,Sillitti A,{'weight': 0.05}
+Ciancarini P,Succi G,{'weight': 0.5}
+Sillitti A,Succi G,{'weight': 0.05}
+Succi G,Russo B,{'weight': 0.05}

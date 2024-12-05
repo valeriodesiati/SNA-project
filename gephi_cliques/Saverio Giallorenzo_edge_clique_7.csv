@@ -1,11 +1,7 @@
 Source,Target,Attributes
-Maurizio Gabbrielli,Saverio Giallorenzo,{'weight': 0.1}
-Maurizio Gabbrielli,Franco Callegati,{'weight': 0.1}
-Maurizio Gabbrielli,Andrea Melis,{'weight': 0.05}
-Maurizio Gabbrielli,Marco Prandini,{'weight': 0.05}
-Franco Callegati,Andrea Melis,{'weight': 0.3}
-Franco Callegati,Marco Prandini,{'weight': 0.3}
-Franco Callegati,Saverio Giallorenzo,{'weight': 0.05}
-Saverio Giallorenzo,Andrea Melis,{'weight': 0.15}
-Saverio Giallorenzo,Marco Prandini,{'weight': 0.1}
-Marco Prandini,Andrea Melis,{'weight': 0.35}
+Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
+Stefano Pio Zingaro,Ivan Lanese,{'weight': 0.05}
+Stefano Pio Zingaro,Davide Sangiorgi,{'weight': 0.05}
+Ivan Lanese,Saverio Giallorenzo,{'weight': 0.05}
+Ivan Lanese,Davide Sangiorgi,{'weight': 0.05}
+Davide Sangiorgi,Saverio Giallorenzo,{'weight': 0.05}

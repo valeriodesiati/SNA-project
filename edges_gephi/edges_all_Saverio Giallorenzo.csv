@@ -1,47 +1,47 @@
 Source,Target,Attributes
+Franco Callegati,Davide Berardi,{'weight': 0.2}
+Franco Callegati,Andrea Melis,{'weight': 0.3}
+Franco Callegati,Marco Prandini,{'weight': 0.3}
+Franco Callegati,Maurizio Gabbrielli,{'weight': 0.1}
+Franco Callegati,Saverio Giallorenzo,{'weight': 0.05}
+Stefano Pio Zingaro,Maurizio Gabbrielli,{'weight': 0.25}
+Stefano Pio Zingaro,Lorenzo Bacchiani,{'weight': 0.05}
+Stefano Pio Zingaro,Mario Bravetti,{'weight': 0.05}
+Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
+Stefano Pio Zingaro,Gianluigi Zavattaro,{'weight': 0.05}
+Stefano Pio Zingaro,Ivan Lanese,{'weight': 0.05}
+Stefano Pio Zingaro,Davide Sangiorgi,{'weight': 0.05}
 Gianluigi Zavattaro,Giuseppe De Palma,{'weight': 0.1}
 Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
 Gianluigi Zavattaro,Matteo Trentin,{'weight': 0.05}
 Gianluigi Zavattaro,Lorenzo Bacchiani,{'weight': 0.05}
 Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
 Gianluigi Zavattaro,Maurizio Gabbrielli,{'weight': 0.05}
-Gianluigi Zavattaro,Stefano Pio Zingaro,{'weight': 0.05}
 Gianluigi Zavattaro,Iacopo Talevi,{'weight': 0.05}
-Davide Sangiorgi,Saverio Giallorenzo,{'weight': 0.05}
-Davide Sangiorgi,Ivan Lanese,{'weight': 0.05}
-Davide Sangiorgi,Stefano Pio Zingaro,{'weight': 0.05}
-Mario Bravetti,Lorenzo Bacchiani,{'weight': 0.05}
-Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}
-Mario Bravetti,Maurizio Gabbrielli,{'weight': 0.05}
-Mario Bravetti,Stefano Pio Zingaro,{'weight': 0.05}
-Mario Bravetti,Iacopo Talevi,{'weight': 0.05}
+Matteo Trentin,Giuseppe De Palma,{'weight': 0.05}
+Matteo Trentin,Saverio Giallorenzo,{'weight': 0.05}
+Lorenzo Bacchiani,Mario Bravetti,{'weight': 0.05}
+Lorenzo Bacchiani,Saverio Giallorenzo,{'weight': 0.05}
+Lorenzo Bacchiani,Maurizio Gabbrielli,{'weight': 0.05}
 Nicola Dragoni,Ivan Lanese,{'weight': 0.05}
 Nicola Dragoni,Manuel Mazzara,{'weight': 0.1}
 Nicola Dragoni,Saverio Giallorenzo,{'weight': 0.05}
-Giuseppe De Palma,Saverio Giallorenzo,{'weight': 0.1}
-Giuseppe De Palma,Matteo Trentin,{'weight': 0.05}
-Matteo Trentin,Saverio Giallorenzo,{'weight': 0.05}
-Davide Berardi,Franco Callegati,{'weight': 0.2}
-Davide Berardi,Andrea Melis,{'weight': 0.35}
-Davide Berardi,Marco Prandini,{'weight': 0.25}
-Davide Berardi,Saverio Giallorenzo,{'weight': 0.1}
-Lorenzo Bacchiani,Saverio Giallorenzo,{'weight': 0.05}
-Lorenzo Bacchiani,Maurizio Gabbrielli,{'weight': 0.05}
-Lorenzo Bacchiani,Stefano Pio Zingaro,{'weight': 0.05}
-Maurizio Gabbrielli,Stefano Pio Zingaro,{'weight': 0.25}
+Manuel Mazzara,Ivan Lanese,{'weight': 0.1}
+Manuel Mazzara,Saverio Giallorenzo,{'weight': 0.05}
+Maurizio Gabbrielli,Mario Bravetti,{'weight': 0.05}
 Maurizio Gabbrielli,Saverio Giallorenzo,{'weight': 0.1}
-Maurizio Gabbrielli,Franco Callegati,{'weight': 0.1}
 Maurizio Gabbrielli,Andrea Melis,{'weight': 0.05}
 Maurizio Gabbrielli,Marco Prandini,{'weight': 0.05}
-Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
-Stefano Pio Zingaro,Ivan Lanese,{'weight': 0.05}
+Iacopo Talevi,Mario Bravetti,{'weight': 0.05}
 Iacopo Talevi,Saverio Giallorenzo,{'weight': 0.05}
 Ivan Lanese,Saverio Giallorenzo,{'weight': 0.05}
-Ivan Lanese,Manuel Mazzara,{'weight': 0.1}
-Franco Callegati,Andrea Melis,{'weight': 0.3}
-Franco Callegati,Marco Prandini,{'weight': 0.3}
-Franco Callegati,Saverio Giallorenzo,{'weight': 0.05}
-Saverio Giallorenzo,Andrea Melis,{'weight': 0.15}
-Saverio Giallorenzo,Marco Prandini,{'weight': 0.1}
-Saverio Giallorenzo,Manuel Mazzara,{'weight': 0.05}
-Marco Prandini,Andrea Melis,{'weight': 0.35}
+Ivan Lanese,Davide Sangiorgi,{'weight': 0.05}
+Andrea Melis,Davide Berardi,{'weight': 0.35}
+Andrea Melis,Marco Prandini,{'weight': 0.35}
+Andrea Melis,Saverio Giallorenzo,{'weight': 0.15}
+Davide Sangiorgi,Saverio Giallorenzo,{'weight': 0.05}
+Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}
+Davide Berardi,Marco Prandini,{'weight': 0.25}
+Davide Berardi,Saverio Giallorenzo,{'weight': 0.1}
+Giuseppe De Palma,Saverio Giallorenzo,{'weight': 0.1}
+Marco Prandini,Saverio Giallorenzo,{'weight': 0.1}

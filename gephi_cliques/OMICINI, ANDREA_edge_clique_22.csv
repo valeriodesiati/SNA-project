@@ -1,2 +1,7 @@
 Source,Target,Attributes
-"CONTUCCI, PIERLUIGI","OMICINI, ANDREA",{'weight': 0.15}
+"OMICINI, ANDREA","CALEGARI, ROBERTA",{'weight': 0.3}
+"OMICINI, ANDREA","DENTI, ENRICO",{'weight': 1.4}
+"OMICINI, ANDREA",Stefano Mariani,{'weight': 0.05}
+Stefano Mariani,"CALEGARI, ROBERTA",{'weight': 0.05}
+Stefano Mariani,"DENTI, ENRICO",{'weight': 0.05}
+"DENTI, ENRICO","CALEGARI, ROBERTA",{'weight': 0.5}

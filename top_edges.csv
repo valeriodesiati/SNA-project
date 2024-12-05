@@ -1,0 +1,2289 @@
+Source,Target,Weight
+Fabrizio Montesi,Claudio Guidi,0.05
+Fabrizio Montesi,Ivan Lanese,0.05
+Fabrizio Montesi,Manuel Mazzara,0.05
+Palazzi C. E.,Bujari A.,0.2
+Palazzi C. E.,Quadrini M.,0.05
+Palazzi C. E.,Ferretti S.,0.05
+Gianni Tumedei,Mariagrazia Benassi,0.05
+Gianni Tumedei,Davide Paolillo,0.05
+Gianni Tumedei,Matilde Spinoso,0.05
+Gianni Tumedei,Sara Giovagnoli,0.05
+Gianni Tumedei,Luca Formica,0.05
+Gianni Tumedei,Catia Prandi,0.05
+Silvio Peroni,Riccardo Fini,0.05
+Silvio Peroni,Monica Bartolini,0.05
+Silvio Peroni,Paolo Ciancarini,0.05
+Silvio Peroni,Angelo Di Iorio,0.05
+Silvio Peroni,Marcello Maria Mariani,0.05
+Silvio Peroni,Francesco Poggi,0.05
+Silvio Peroni,Riccardo Silvi,0.05
+Silvio Peroni,Maurizio Sobrero,0.05
+Silvio Peroni,Laura Toschi,0.05
+Silvio Peroni,Marilena Daquino,0.05
+Silvio Peroni,Francesca Mambelli,0.05
+Silvio Peroni,Francesca Tomasi,0.05
+Silvio Peroni,Fabio Vitali,0.05
+Faldella E.,Prandini M.,0.2
+Guidi C.,Lanese I.,0.05
+Evangelisti L.,Di Modica G.,0.1
+Evangelisti L.,Foschini L.,0.1
+Evangelisti L.,Maris A.,0.05
+Evangelisti L.,Melandri S.,0.05
+Evangelisti L.,Corradi A.,0.05
+Ira Vannini,Dina Guglielmi,0.1
+Ira Vannini,Elena Luppi,0.1
+Ira Vannini,Barbara Neri,0.05
+Ira Vannini,Enrico Sangiorgi,0.1
+Ira Vannini,Paola Salomoni,0.1
+Ira Vannini,Francesco Ubertini,0.05
+Elena Cervellati,Silvia Garzarella,0.05
+Elena Cervellati,Lorenzo Stacchio,0.05
+Elena Cervellati,Pasquale Cascarano,0.05
+Elena Cervellati,Allegra De Filippo,0.05
+Elena Cervellati,Gustavo Marfia,0.05
+"Trotta, Angelo","Sciullo, Luca",0.2
+"Trotta, Angelo","Montori, Federico",0.25
+"Trotta, Angelo","Bononi, Luciano",0.5
+"Trotta, Angelo","Di Felice, Marco",0.65
+"Trotta, Angelo","Elias, Jocelyne",0.05
+"Trotta, Angelo","Vallasciani, Giacomo",0.05
+"Trotta, Angelo","Montecchiari, Leonardo",0.1
+"Trotta, Angelo","Gigli, Lorenzo",0.05
+"Trotta, Angelo","Bellone, Lorenzo",0.05
+"Trotta, Angelo","Zyrianoff, Ivan",0.05
+"Trotta, Angelo","Bedogni, Luca",0.1
+"Trotta, Angelo","Canegallo, Roberto",0.05
+"Trotta, Angelo","CARBONE, FABIO",0.05
+"Trotta, Angelo","Scarselli, Eleonora Franchi",0.05
+"Trotta, Angelo","Perilli, Luca",0.05
+"Trotta, Angelo","Cinotti, Tullio Salmon",0.05
+"Trotta, Angelo","Felice, Marco Di",0.05
+"Montecchiari, Leonardo","Gigli, Lorenzo",0.05
+"Montecchiari, Leonardo","Bellone, Lorenzo",0.05
+"Montecchiari, Leonardo","Di Felice, Marco",0.1
+"Montecchiari, Leonardo","Bononi, Luciano",0.05
+Al Jawarneh Isam Mashhour Hasan,Bellavista P.,0.05
+Al Jawarneh Isam Mashhour Hasan,Foschini L.,0.05
+Al Jawarneh Isam Mashhour Hasan,Montanari R.,0.05
+"Di Luzio, Andrea","Bartolini, Ilaria",0.05
+"Di Luzio, Andrea","Pizza, Fabio",0.05
+"Di Luzio, Andrea","Antelmi, Elena",0.05
+"Di Luzio, Andrea","Vandi, Stefano",0.05
+"Di Luzio, Andrea","Plazzi, Giuseppe",0.05
+and Saverio Giallorenzo,Tong Liu,0.05
+and Saverio Giallorenzo,Franco Callegati,0.05
+and Saverio Giallorenzo,Walter Cerroni,0.05
+and Saverio Giallorenzo,Chiara Contoli,0.05
+and Saverio Giallorenzo,Maurizio Gabbrielli,0.05
+"Antelmi, Elena","Bartolini, Ilaria",0.05
+"Antelmi, Elena","Pizza, Fabio",0.05
+"Antelmi, Elena","Vandi, Stefano",0.05
+"Antelmi, Elena","Plazzi, Giuseppe",0.05
+"Beneventi, Francesco","Borghesi, Andrea",0.15
+"Beneventi, Francesco","Di Santi, Carmine",0.05
+"Beneventi, Francesco","Molan, Martin",0.05
+"Beneventi, Francesco","Ardebili, Mohsen Seyedkazemi",0.05
+"Beneventi, Francesco","Guarrasi, Massimiliano",0.05
+"Beneventi, Francesco","Barchi, Francesco",0.05
+"Beneventi, Francesco","Benini, Luca",0.1
+"Beneventi, Francesco","Bartolini, Andrea",0.15
+"Beneventi, Francesco","Cesarini, Daniele",0.05
+"Visani, Giorgio","Loreti, Daniela",0.05
+Corradi A.,Rosa L.,0.1
+Corradi A.,Garbugli A.,0.15
+Corradi A.,Bellavista P.,0.95
+Corradi A.,Foschini L.,1.15
+Corradi A.,Montanari R.,0.5
+Corradi A.,Di Modica G.,0.1
+Corradi A.,Patera L.,0.15
+Corradi A.,Solimando M.,0.15
+Corradi A.,Bujari A.,0.25
+Corradi A.,Scotece D.,0.1
+Corradi A.,Sabbioni A.,0.25
+Corradi A.,Mazzocca C.,0.05
+Corradi A.,Zanni A.,0.05
+Corradi A.,Calvio A.,0.1
+Corradi A.,AL JAWARNEH ISAM MASHHOUR HASAN,0.15
+Corradi A.,Isam M. Al Jawarneh,0.05
+Corradi A.,Acquaviva L.,0.05
+Corradi A.,Vecchi S.,0.05
+Ludovico Chieffallo,Duccio Rocchini,0.05
+Ludovico Chieffallo,Elisa Marchetto,0.05
+Ludovico Chieffallo,Roberto Cazzolla Gatti,0.05
+Ludovico Chieffallo,Alessandro Chiarucci,0.05
+Ludovico Chieffallo,Silvia Mirri,0.05
+Ludovico Chieffallo,Francesco Maria Sabatini,0.05
+Ludovico Chieffallo,Piero Zannini,0.05
+Andrea Melis,Andrea Piroddi,0.05
+Andrea Melis,R. Girau,0.05
+Andrea Melis,Davide Berardi,0.35
+Andrea Melis,Franco Callegati,0.3
+Andrea Melis,Andrea Giovine,0.05
+Andrea Melis,Marco Prandini,0.35
+Andrea Melis,Lorenzo Rinieri,0.05
+Andrea Melis,Saverio Giallorenzo,0.15
+Andrea Melis,Amir Al Sadi,0.1
+Andrea Melis,FRANCO CALLEGATI,0.05
+Andrea Melis,MARCO PRANDINI,0.05
+Andrea Melis,Maurizio Gabbrielli,0.05
+Andrea Melis,Giovanni Delnevo,0.05
+Andrea Melis,Silvia Mirri,0.05
+Andrea Melis,Paola Salomoni,0.05
+"Mancini, Eleonora","De Filippo, Allegra",0.05
+"Mancini, Eleonora","Giuliani, Luca",0.05
+"Mancini, Eleonora","Borghesi, Andrea",0.05
+"Mancini, Eleonora","Mello, Paola",0.05
+"Mancini, Eleonora","Milano, Michela",0.05
+Grasselli C.,Borsatti D.,0.1
+Grasselli C.,Cerroni W.,0.1
+Grasselli C.,Callegati F.,0.1
+Grasselli C.,Al Sadi A.,0.1
+Grasselli C.,Melis A.,0.1
+Grasselli C.,Rinieri L.,0.05
+Grasselli C.,Berardi D.,0.05
+Grasselli C.,Gori G.,0.05
+"Andrisano, Oreste","Bartolini, Ilaria",0.05
+"Andrisano, Oreste","Bellavista, Paolo",0.05
+"Andrisano, Oreste","Boeri, Andrea",0.05
+"Andrisano, Oreste","Bononi, Luciano",0.05
+"Andrisano, Oreste","Borghetti, Alberto",0.05
+"Andrisano, Oreste","Brath, Armando",0.05
+"Andrisano, Oreste","Corazza, Giovanni Emanuele",0.05
+"Andrisano, Oreste","Corradi, Antonio",0.05
+"Andrisano, Oreste","De Miranda, Stefano",0.05
+"Andrisano, Oreste","Fava, Fabio",0.05
+"Andrisano, Oreste","Foschini, Luca",0.05
+"Andrisano, Oreste","Leoni, Giovanni",0.05
+"Andrisano, Oreste","Longo, Danila",0.05
+"Andrisano, Oreste","Milano, Michela",0.05
+"Andrisano, Oreste","Napolitano, Fabio",0.05
+"Andrisano, Oreste","Nucci, Carlo Alberto",0.05
+"Andrisano, Oreste","Pasolini, Gianni",0.05
+"Andrisano, Oreste","Patella, Marco",0.05
+"Andrisano, Oreste","Salmon Cinotti, Tullio",0.05
+"Andrisano, Oreste","Tarchi, Daniele",0.05
+"Andrisano, Oreste","Ubertini, Francesco",0.05
+"Andrisano, Oreste","Vigo, Daniele",0.05
+Manca L.,Borsatti D.,0.05
+Manca L.,Cerroni W.,0.05
+Manca L.,Foschini L.,0.05
+Manca L.,Scotece D.,0.05
+"Artioli, Marcello","Loreti, Daniela",0.1
+"Artioli, Marcello","Ciampolini, Anna",0.1
+Zanni A.,Bellavista P.,0.05
+Zanni A.,Foschini L.,0.05
+"Calvio, Alessandro","Montori, Federico",0.05
+"Calvio, Alessandro","Zyrianoff, Ivan",0.05
+"Calvio, Alessandro","Gigli, Lorenzo",0.05
+"Calvio, Alessandro","Venanzi, Riccardo",0.05
+"Calvio, Alessandro","Sindaco, Simone",0.05
+"Calvio, Alessandro","Sciullo, Luca",0.05
+"Calvio, Alessandro","Zonzini, Federica",0.05
+"Calvio, Alessandro","Zauli, Matteo",0.05
+"Calvio, Alessandro","Testoni, Nicola",0.05
+"Calvio, Alessandro","Felice, Marco Di",0.05
+"Calvio, Alessandro","Bononi, Luciano",0.05
+"Calvio, Alessandro","Bellavista, Paolo",0.05
+"Calvio, Alessandro","De Marchi, Luca",0.05
+"Calvio, Alessandro","Marzani, Alessandro",0.05
+"Calvio, Alessandro","Cinotti, Tullio Salmon",0.05
+"Calvio, Alessandro","Sabbioni, Andrea",0.05
+"Calvio, Alessandro","Bujari, Armir",0.05
+"Calvio, Alessandro","Foschini, Luca",0.05
+Gigli L.,Aguzzi C.,0.35
+Gigli L.,Ivan Dimitry Ribeiro Zyrianoff,0.1
+Gigli L.,Roffia L.,0.05
+Gigli L.,Montori F.,0.35
+Gigli L.,Zichichi M.,0.05
+Gigli L.,Bedogni L.,0.05
+Gigli L.,Ferretti S.,0.05
+Gigli L.,Di Felice M.,0.5
+Gigli L.,Sciullo L.,0.2
+Gigli L.,Trotta A.,0.15
+Gigli L.,Zyrianoff Ivan Dimitry Ribeiro,0.05
+Gigli L.,Ribeiro Zyrianoff I.,0.05
+Gigli L.,Ribeiro Zyrianoff I. D.,0.05
+Gigli L.,Zonzini F.,0.15
+Gigli L.,De Marchi L.,0.15
+Gigli L.,Marzani A.,0.1
+Gigli L.,Cinotti T. S.,0.15
+Gigli L.,Zyrianoff Ivan Dimitry,0.05
+Gigli L.,Venanzi R.,0.05
+Gigli L.,Sindaco S.,0.05
+Gigli L.,Zauli M.,0.05
+Gigli L.,Testoni Nicola,0.05
+Gigli L.,Bononi L.,0.05
+Gigli L.,Bellavista P.,0.05
+Gigli L.,Testoni N.,0.05
+Roberto Verdone,Walter Cerroni,0.05
+Roberto Verdone,Franco Callegati,0.05
+Roberto Verdone,Chiara Buratti,0.05
+"Mattivi, Pietro","Magnini, Andrea",0.05
+"Mattivi, Pietro","Lombardi, Michele",0.05
+"Mattivi, Pietro","Bujari, Armir",0.05
+"Mattivi, Pietro","Shustikova, Iuliia",0.05
+"Mattivi, Pietro","Persiano, Simone",0.05
+"Mattivi, Pietro","Patella, Marco",0.05
+"Mattivi, Pietro","Bitelli, Gabriele",0.05
+"Mattivi, Pietro","Bellavista, Paolo",0.05
+"Mattivi, Pietro","Castellarin, Attilio",0.05
+"Borghetti, Alberto","Bartolini, Ilaria",0.05
+"Borghetti, Alberto","Bellavista, Paolo",0.05
+"Borghetti, Alberto","Boeri, Andrea",0.05
+"Borghetti, Alberto","Bononi, Luciano",0.1
+"Borghetti, Alberto","Brath, Armando",0.05
+"Borghetti, Alberto","Corazza, Giovanni Emanuele",0.05
+"Borghetti, Alberto","Corradi, Antonio",0.05
+"Borghetti, Alberto","De Miranda, Stefano",0.05
+"Borghetti, Alberto","Fava, Fabio",0.05
+"Borghetti, Alberto","Foschini, Luca",0.05
+"Borghetti, Alberto","Leoni, Giovanni",0.05
+"Borghetti, Alberto","Longo, Danila",0.05
+"Borghetti, Alberto","Milano, Michela",0.1
+"Borghetti, Alberto","Napolitano, Fabio",0.1
+"Borghetti, Alberto","Nucci, Carlo Alberto",0.1
+"Borghetti, Alberto","Pasolini, Gianni",0.05
+"Borghetti, Alberto","Patella, Marco",0.05
+"Borghetti, Alberto","Salmon Cinotti, Tullio",0.1
+"Borghetti, Alberto","Tarchi, Daniele",0.05
+"Borghetti, Alberto","Ubertini, Francesco",0.05
+"Borghetti, Alberto","Vigo, Daniele",0.05
+"Borghetti, Alberto","De Filippo, Allegra",0.05
+"Borghetti, Alberto","Lombardi, Michele",0.05
+"Borghetti, Alberto","Bedogni, Luca",0.05
+"Borghetti, Alberto","Bottura, Riccardo",0.05
+"Borghetti, Alberto","D'Elia, Alfredo",0.05
+"Borghetti, Alberto","Di Felice, Marco",0.05
+"Borghetti, Alberto","Montori, Federico",0.05
+"Borghetti, Alberto","Viola, Fabio",0.05
+Davide Berardi,Franco Callegati,0.2
+Davide Berardi,Andrea Giovine,0.05
+Davide Berardi,Marco Prandini,0.25
+Davide Berardi,Lorenzo Rinieri,0.05
+Davide Berardi,Saverio Giallorenzo,0.1
+Davide Berardi,Amir Al Sadi,0.1
+Davide Berardi,FRANCO CALLEGATI,0.05
+Davide Berardi,MARCO PRANDINI,0.05
+Giuseppe Lisanti,Daniela Calanca,0.05
+Giuseppe Lisanti,Gustavo Marfia,0.05
+Giuseppe Lisanti,Lorenzo Stacchio,0.05
+Giuseppe Lisanti,Alessia Angeli,0.05
+Giuseppe Lisanti,Stefano Pio Zingaro,0.05
+Giuseppe Lisanti,Maurizio Gabbrielli,0.05
+"Mellone, Sabato","Arcobelli, Valerio Antonio",0.05
+"Mellone, Sabato","Moscato, Serena",0.05
+"Mellone, Sabato","Palumbo, Pierpaolo",0.05
+"Mellone, Sabato","Marfoglia, Alberto",0.05
+"Mellone, Sabato","Nardini, Filippo",0.05
+"Mellone, Sabato","Davalli, Angelo",0.05
+"Mellone, Sabato","Chiari, Lorenzo",0.1
+"Mellone, Sabato","Borelli, Elena",0.05
+"Mellone, Sabato","Tacconi, Carlo",0.05
+"Mellone, Sabato","Cinotti, Tullio Salmon",0.05
+"Mellone, Sabato","Roffia, Luca",0.05
+"Mellone, Sabato","Antoniazzi, Francesco",0.05
+"Mellone, Sabato","Costanzo, Alessandra",0.05
+"Mellone, Sabato","Paolini, Giacomo",0.05
+"Mellone, Sabato","Masotti, Diego",0.05
+"Mellone, Sabato","Mello, Paola",0.05
+"Mellone, Sabato","Chesani, Federico",0.05
+"Mellone, Sabato","Loreti, Daniela",0.05
+Valentina Carriero,Andrea Poltronieri,0.05
+Valentina Carriero,Valentina Presutti,0.05
+Angelo Garofalo,Gianmarco Ottavi,0.05
+Angelo Garofalo,Giuseppe Tagliavini,0.1
+Angelo Garofalo,Francesco Conti,0.1
+Angelo Garofalo,Luca Benini,0.05
+Angelo Garofalo,Davide Rossi,0.1
+Angelo Garofalo,Nazareno Bruschi,0.05
+Dina Guglielmi,Elena Luppi,0.1
+Dina Guglielmi,Barbara Neri,0.05
+Dina Guglielmi,Enrico Sangiorgi,0.1
+Dina Guglielmi,Paola Salomoni,0.1
+Dina Guglielmi,Francesco Ubertini,0.05
+"Bellavista, Paolo","Mazzocca, Carlo",0.1
+"Bellavista, Paolo","Romandini, Nicolò",0.15
+"Bellavista, Paolo","Montanari, Rebecca",0.5
+"Bellavista, Paolo","Jawarneh, Isam Mashhour Al",0.1
+"Bellavista, Paolo","Corradi, Antonio",0.85
+"Bellavista, Paolo","Foschini, Luca",2.0
+"Bellavista, Paolo","Mora, Alessio",0.2
+"Bellavista, Paolo","Bujari, Armir",0.2
+"Bellavista, Paolo","Sabbioni, Andrea",0.15
+"Bellavista, Paolo","Garbugli, Andrea",0.05
+"Bellavista, Paolo","Staffolani, Alessandro",0.1
+"Bellavista, Paolo","Musolesi, Mirco",0.1
+"Bellavista, Paolo","Venanzi, Riccardo",0.3
+"Bellavista, Paolo","Montori, Federico",0.05
+"Bellavista, Paolo","Zyrianoff, Ivan",0.05
+"Bellavista, Paolo","Gigli, Lorenzo",0.05
+"Bellavista, Paolo","Sindaco, Simone",0.05
+"Bellavista, Paolo","Sciullo, Luca",0.05
+"Bellavista, Paolo","Zonzini, Federica",0.05
+"Bellavista, Paolo","Zauli, Matteo",0.05
+"Bellavista, Paolo","Testoni, Nicola",0.05
+"Bellavista, Paolo","Felice, Marco Di",0.05
+"Bellavista, Paolo","Bononi, Luciano",0.1
+"Bellavista, Paolo","De Marchi, Luca",0.05
+"Bellavista, Paolo","Marzani, Alessandro",0.05
+"Bellavista, Paolo","Cinotti, Tullio Salmon",0.05
+"Bellavista, Paolo","Mendula, Matteo",0.05
+"Bellavista, Paolo","Di Modica, Giuseppe",0.25
+"Bellavista, Paolo","Magnini, Andrea",0.05
+"Bellavista, Paolo","Lombardi, Michele",0.05
+"Bellavista, Paolo","Shustikova, Iuliia",0.05
+"Bellavista, Paolo","Persiano, Simone",0.05
+"Bellavista, Paolo","Patella, Marco",0.1
+"Bellavista, Paolo","Bitelli, Gabriele",0.05
+"Bellavista, Paolo","Castellarin, Attilio",0.05
+"Bellavista, Paolo","Tazzioli, Davide",0.05
+"Bellavista, Paolo","Capponi, Andrea",0.05
+"Bellavista, Paolo","Costantini, Alessandro",0.05
+"Bellavista, Paolo","Martelli, Barbara",0.05
+"Bellavista, Paolo","Galletti, Matteo",0.05
+"Bellavista, Paolo","Tisbeni, Simone Rossi",0.05
+"Bellavista, Paolo","Cesini, Daniele",0.05
+"Bellavista, Paolo","Scalzotto, Luca",0.05
+"Bellavista, Paolo","Cilloni, Marco",0.05
+"Bellavista, Paolo","Carlo Maiorano Picone, Pasquale",0.05
+"Bellavista, Paolo","Solimando, Michele",0.1
+"Bellavista, Paolo","Al Jawarneh, Isam Mashhour",0.3
+"Bellavista, Paolo","Zanni, Alessandro",0.4
+"Bellavista, Paolo","Martuscelli, Giuseppe",0.05
+"Bellavista, Paolo","Patera, Lorenzo",0.05
+"Bellavista, Paolo","Scotece, Domenico",0.1
+"Bellavista, Paolo","Civolani, Lorenzo",0.05
+"Bellavista, Paolo","Bartolini, Ilaria",0.05
+"Bellavista, Paolo","Boeri, Andrea",0.05
+"Bellavista, Paolo","Brath, Armando",0.05
+"Bellavista, Paolo","Corazza, Giovanni Emanuele",0.05
+"Bellavista, Paolo","De Miranda, Stefano",0.05
+"Bellavista, Paolo","Fava, Fabio",0.05
+"Bellavista, Paolo","Leoni, Giovanni",0.05
+"Bellavista, Paolo","Longo, Danila",0.05
+"Bellavista, Paolo","Milano, Michela",0.05
+"Bellavista, Paolo","Napolitano, Fabio",0.05
+"Bellavista, Paolo","Nucci, Carlo Alberto",0.05
+"Bellavista, Paolo","Pasolini, Gianni",0.05
+"Bellavista, Paolo","Salmon Cinotti, Tullio",0.05
+"Bellavista, Paolo","Tarchi, Daniele",0.05
+"Bellavista, Paolo","Ubertini, Francesco",0.05
+"Bellavista, Paolo","Vigo, Daniele",0.05
+"Bellavista, Paolo","CASELLI, FEDERICO",0.05
+"Bellavista, Paolo","SCOTECE, DOMENICO",0.1
+"Bellavista, Paolo","SOLIMANDO, MICHELE",0.1
+"Bellavista, Paolo","CILLONI, MARCO",0.05
+"Bottura, Riccardo","Bedogni, Luca",0.05
+"Bottura, Riccardo","Bononi, Luciano",0.05
+"Bottura, Riccardo","D'Elia, Alfredo",0.05
+"Bottura, Riccardo","Di Felice, Marco",0.05
+"Bottura, Riccardo","Montori, Federico",0.05
+"Bottura, Riccardo","Napolitano, Fabio",0.05
+"Bottura, Riccardo","Nucci, Carlo Alberto",0.05
+"Bottura, Riccardo","Salmon Cinotti, Tullio",0.05
+"Bottura, Riccardo","Viola, Fabio",0.05
+Luca Poluzzi,Elena Loli Piccolomini,0.05
+Luca Poluzzi,Stefano Gandolfi,0.05
+Luca Poluzzi,Luca Tavasci,0.05
+Luca Poluzzi,"CASCARANO, PASQUALE",0.05
+Luca Poluzzi,Andrea Pascucci,0.05
+Canegallo R.,Trotta A.,0.05
+Canegallo R.,Di Felice M.,0.05
+Canegallo R.,Bononi L.,0.05
+Canegallo R.,Perilli L.,0.05
+Canegallo R.,Scarselli E. F.,0.05
+Canegallo R.,Cinotti T. S.,0.05
+"Foschini, Luca","Rosa, Lorenzo",0.15
+"Foschini, Luca","Corradi, Antonio",1.3
+"Foschini, Luca","Jawarneh, Isam Mashhour Al",0.1
+"Foschini, Luca","Montanari, Rebecca",0.6
+"Foschini, Luca","Sabbioni, Andrea",0.3
+"Foschini, Luca","Garbugli, Andrea",0.05
+"Foschini, Luca","Staffolani, Alessandro",0.05
+"Foschini, Luca","Musolesi, Mirco",0.05
+"Foschini, Luca","Scotece, Domenico",0.7
+"Foschini, Luca","Herrera, Juan Luis",0.1
+"Foschini, Luca","Di Modica, Giuseppe",0.25
+"Foschini, Luca","Cavallari, Riccardo",0.05
+"Foschini, Luca","Herrera Gonzalez, Juan Luis",0.05
+"Foschini, Luca","Montebugnoli, Sofia",0.1
+"Foschini, Luca","Bujari, Armir",0.25
+"Foschini, Luca","Venanzi, Riccardo",0.35
+"Foschini, Luca","Solimando, Michele",0.3
+"Foschini, Luca","Campioni, Lorenzo",0.05
+"Foschini, Luca","Cavalucci, Alberto",0.05
+"Foschini, Luca","Stefanelli, Cesare",0.05
+"Foschini, Luca","Tazzioli, Davide",0.05
+"Foschini, Luca","Capponi, Andrea",0.05
+"Foschini, Luca","Romandini, Nicolò",0.05
+"Foschini, Luca","Martuscelli, Giuseppe",0.15
+"Foschini, Luca","Mora, Alessio",0.1
+"Foschini, Luca","Bosi, Filippo",0.05
+"Foschini, Luca","Patera, Lorenzo",0.15
+"Foschini, Luca","Al Jawarneh, Isam Mashhour",0.35
+"Foschini, Luca","Zanni, Alessandro",0.1
+"Foschini, Luca","Bartolini, Ilaria",0.05
+"Foschini, Luca","Boeri, Andrea",0.05
+"Foschini, Luca","Bononi, Luciano",0.05
+"Foschini, Luca","Brath, Armando",0.05
+"Foschini, Luca","Corazza, Giovanni Emanuele",0.05
+"Foschini, Luca","De Miranda, Stefano",0.05
+"Foschini, Luca","Fava, Fabio",0.05
+"Foschini, Luca","Leoni, Giovanni",0.05
+"Foschini, Luca","Longo, Danila",0.05
+"Foschini, Luca","Milano, Michela",0.05
+"Foschini, Luca","Napolitano, Fabio",0.05
+"Foschini, Luca","Nucci, Carlo Alberto",0.05
+"Foschini, Luca","Pasolini, Gianni",0.05
+"Foschini, Luca","Patella, Marco",0.05
+"Foschini, Luca","Salmon Cinotti, Tullio",0.05
+"Foschini, Luca","Tarchi, Daniele",0.05
+"Foschini, Luca","Ubertini, Francesco",0.05
+"Foschini, Luca","Vigo, Daniele",0.05
+"Foschini, Luca","Bertacchi, Silvia",0.05
+"Foschini, Luca","Apollonio, Fabrizio Ivan",0.05
+"Foschini, Luca","Bertacchi, Gianna",0.05
+"Foschini, Luca","CASELLI, FEDERICO",0.05
+"Foschini, Luca","CILLONI, MARCO",0.1
+"Foschini, Luca","SOLIMANDO, MICHELE",0.05
+"Foschini, Luca","SCOTECE, DOMENICO",0.05
+Giovanni V. Spinelli,Davide Evangelista,0.05
+Giovanni V. Spinelli,Fabiana Zama,0.05
+Lorenzo Rosa,Andrea Garbugli,0.05
+Lorenzo Rosa,Armir Bujari,0.1
+Lorenzo Rosa,Luca Foschini,0.1
+Lorenzo Rosa,Andrea Sabbioni,0.05
+Lorenzo Rosa,Antonio Corradi,0.05
+Riccardo Silvi,Riccardo Fini,0.05
+Riccardo Silvi,Monica Bartolini,0.05
+Riccardo Silvi,Paolo Ciancarini,0.05
+Riccardo Silvi,Angelo Di Iorio,0.05
+Riccardo Silvi,Marcello Maria Mariani,0.05
+Riccardo Silvi,Francesco Poggi,0.05
+Riccardo Silvi,Maurizio Sobrero,0.05
+Riccardo Silvi,Laura Toschi,0.05
+"Paolini, Giacomo","Chiari, Lorenzo",0.05
+"Paolini, Giacomo","Borelli, Elena",0.05
+"Paolini, Giacomo","Tacconi, Carlo",0.05
+"Paolini, Giacomo","Cinotti, Tullio Salmon",0.1
+"Paolini, Giacomo","Roffia, Luca",0.1
+"Paolini, Giacomo","Antoniazzi, Francesco",0.1
+"Paolini, Giacomo","Costanzo, Alessandra",0.1
+"Paolini, Giacomo","Masotti, Diego",0.1
+"Paolini, Giacomo","Mello, Paola",0.1
+"Paolini, Giacomo","Chesani, Federico",0.1
+"Paolini, Giacomo","Loreti, Daniela",0.1
+Crafa S.,Laneve C.,0.05
+"Pasolini, Gianni","Bartolini, Ilaria",0.05
+"Pasolini, Gianni","Boeri, Andrea",0.05
+"Pasolini, Gianni","Bononi, Luciano",0.05
+"Pasolini, Gianni","Brath, Armando",0.05
+"Pasolini, Gianni","Corazza, Giovanni Emanuele",0.05
+"Pasolini, Gianni","Corradi, Antonio",0.05
+"Pasolini, Gianni","De Miranda, Stefano",0.05
+"Pasolini, Gianni","Fava, Fabio",0.05
+"Pasolini, Gianni","Leoni, Giovanni",0.05
+"Pasolini, Gianni","Longo, Danila",0.05
+"Pasolini, Gianni","Milano, Michela",0.05
+"Pasolini, Gianni","Napolitano, Fabio",0.05
+"Pasolini, Gianni","Nucci, Carlo Alberto",0.05
+"Pasolini, Gianni","Patella, Marco",0.05
+"Pasolini, Gianni","Salmon Cinotti, Tullio",0.05
+"Pasolini, Gianni","Tarchi, Daniele",0.05
+"Pasolini, Gianni","Ubertini, Francesco",0.05
+"Pasolini, Gianni","Vigo, Daniele",0.05
+Andrea Schimmenti,Valentina Pasqual,0.05
+Andrea Schimmenti,Francesca Tomasi,0.05
+Andrea Schimmenti,Fabio Vitali,0.05
+"De Filippo, Allegra","Silvestri, Mattia",0.05
+"De Filippo, Allegra","Lombardi, Michele",0.35
+"De Filippo, Allegra","Milano, Michela",0.45
+"De Filippo, Allegra","Giuliani, Luca",0.1
+"De Filippo, Allegra","Borghesi, Andrea",0.1
+"De Filippo, Allegra","Mello, Paola",0.05
+"De Filippo, Allegra","Ballerini, Francesco",0.05
+Francesco Maria Sabatini,Duccio Rocchini,0.05
+Francesco Maria Sabatini,Elisa Marchetto,0.05
+Francesco Maria Sabatini,Roberto Cazzolla Gatti,0.05
+Francesco Maria Sabatini,Alessandro Chiarucci,0.05
+Francesco Maria Sabatini,Silvia Mirri,0.05
+Francesco Maria Sabatini,Piero Zannini,0.05
+Elisa Marchetto,Duccio Rocchini,0.05
+Elisa Marchetto,Roberto Cazzolla Gatti,0.05
+Elisa Marchetto,Alessandro Chiarucci,0.05
+Elisa Marchetto,Silvia Mirri,0.05
+Elisa Marchetto,Piero Zannini,0.05
+"Martuscelli, Giuseppe","Montanari, Rebecca",0.15
+"Martuscelli, Giuseppe","Solimando, Michele",0.05
+"Martuscelli, Giuseppe","Al Jawarneh, Isam Mashhour",0.1
+"Martuscelli, Giuseppe","Bertacchi, Silvia",0.05
+"Martuscelli, Giuseppe","Apollonio, Fabrizio Ivan",0.05
+"Martuscelli, Giuseppe","Bertacchi, Gianna",0.05
+"Burrello, Alessio","Borghesi, Andrea",0.05
+"Burrello, Alessio","Bartolini, Andrea",0.05
+"Burrello, Alessio","Garofalo, Angelo",0.05
+"Burrello, Alessio","Bruschi, Nazareno",0.05
+"Burrello, Alessio","Tagliavini, Giuseppe",0.05
+"Burrello, Alessio","Rossi, Davide",0.05
+"Burrello, Alessio","Conti, Francesco",0.05
+Veschetti A.,Laneve C.,0.05
+Veschetti A.,Solmonte S.,0.05
+"Stefanelli, Cesare","Venanzi, Riccardo",0.05
+"Stefanelli, Cesare","Solimando, Michele",0.05
+"Stefanelli, Cesare","Campioni, Lorenzo",0.05
+"Stefanelli, Cesare","Cavalucci, Alberto",0.05
+Monga M.,Lodi M.,0.05
+Laneve C.,Solmonte S.,0.05
+Laneve C.,Giachino E.,0.05
+Laneve C.,Zavattaro G.,0.05
+Laneve C.,Padovani L.,0.05
+"Accorsi, Riccardo","Manzini, Riccardo",0.05
+"Accorsi, Riccardo","PASCARELLA, PIETRO",0.05
+"Accorsi, Riccardo","Patella, Marco",0.05
+"Bogomolov, Denis","Gigli, Lorenzo",0.05
+"Bogomolov, Denis","Zyrianoff, Ivan",0.05
+"Bogomolov, Denis","Zonzini, Federica",0.05
+"Bogomolov, Denis","Testoni, Nicola",0.05
+"Bogomolov, Denis","Felice, Marco Di",0.05
+"Bogomolov, Denis","De Marchi, Luca",0.05
+"Bogomolov, Denis","Marzani, Alessandro",0.05
+Monica Bartolini,Riccardo Fini,0.05
+Monica Bartolini,Paolo Ciancarini,0.05
+Monica Bartolini,Angelo Di Iorio,0.05
+Monica Bartolini,Marcello Maria Mariani,0.05
+Monica Bartolini,Francesco Poggi,0.05
+Monica Bartolini,Maurizio Sobrero,0.05
+Monica Bartolini,Laura Toschi,0.05
+Luca Formica,Mariagrazia Benassi,0.05
+Luca Formica,Davide Paolillo,0.05
+Luca Formica,Matilde Spinoso,0.05
+Luca Formica,Sara Giovagnoli,0.05
+Luca Formica,Catia Prandi,0.05
+Barakati P.,Bertini F.,0.05
+Barakati P.,Gabbrielli M.,0.05
+Barakati P.,Montesi D.,0.05
+Maris A.,Di Modica G.,0.05
+Maris A.,Foschini L.,0.05
+Maris A.,Melandri S.,0.05
+Penzo W.,Montesi D.,0.05
+"Martelli, Barbara","Costantini, Alessandro",0.05
+"Martelli, Barbara","Galletti, Matteo",0.05
+"Martelli, Barbara","Tisbeni, Simone Rossi",0.05
+"Martelli, Barbara","Di Modica, Giuseppe",0.05
+"Martelli, Barbara","Cesini, Daniele",0.05
+Solimando M.,Di Modica G.,0.05
+Solimando M.,Foschini L.,0.15
+Solimando M.,Patera L.,0.05
+Solimando M.,Bellavista P.,0.1
+Giuseppe Martuscelli,Luca Foschini,0.1
+Giuseppe Martuscelli,Rebecca Montanari,0.1
+Giuseppe Martuscelli,Paolo Bellavista,0.05
+Elvis Mazzoni,Matteo Orsoni,0.05
+Elvis Mazzoni,Catia Prandi,0.1
+Elvis Mazzoni,Sara Giovagnoli,0.1
+Elvis Mazzoni,Mariagrazia Benassi,0.05
+Elvis Mazzoni,Martina Benvenuti,0.1
+Elvis Mazzoni,Alice Tartarini,0.05
+Elvis Mazzoni,Silvia Mirri,0.05
+Montori F.,Zichichi M.,0.05
+Montori F.,Bedogni L.,0.3
+Montori F.,Ferretti S.,0.05
+Montori F.,Di Felice M.,0.45
+Montori F.,Bononi L.,0.25
+Montori F.,Donatiello L.,0.05
+Montori F.,Longo D.,0.05
+Montori F.,Massari M.,0.05
+Montori F.,Stacchio L.,0.05
+Montori F.,Marfia G.,0.05
+Montori F.,Sciullo L.,0.15
+Montori F.,Trotta A.,0.15
+Montori F.,Zyrianoff Ivan Dimitry Ribeiro,0.05
+Montori F.,Aguzzi C.,0.15
+Montori F.,Ribeiro Zyrianoff I.,0.05
+Montori F.,Ribeiro Zyrianoff I. D.,0.05
+Montori F.,Zyrianoff Ivan Dimitry,0.05
+Montori F.,Venanzi R.,0.1
+Montori F.,Sindaco S.,0.05
+Montori F.,Zonzini F.,0.05
+Montori F.,Zauli M.,0.05
+Montori F.,Testoni Nicola,0.05
+Montori F.,Bellavista P.,0.1
+Montori F.,De Marchi L.,0.05
+Montori F.,Cinotti T. S.,0.1
+Montori F.,Ivan Dimitry Ribeiro Zyrianoff,0.05
+Montori F.,Foschini L.,0.05
+Silvia bertacchi,Giorgio dall'Osso,0.05
+Silvia bertacchi,Rebecca Montanari,0.05
+Silvia bertacchi,Marco Torello,0.05
+Matteo Mendula,Paolo Bellavista,0.1
+Laura Toschi,Riccardo Fini,0.05
+Laura Toschi,Paolo Ciancarini,0.05
+Laura Toschi,Angelo Di Iorio,0.05
+Laura Toschi,Marcello Maria Mariani,0.05
+Laura Toschi,Francesco Poggi,0.05
+Laura Toschi,Maurizio Sobrero,0.05
+Luca Benini,Gianmarco Ottavi,0.05
+Luca Benini,Giuseppe Tagliavini,0.2
+Luca Benini,Francesco Conti,0.05
+Luca Benini,Davide Rossi,0.15
+Luca Benini,Andrea Marongiu,0.05
+Luca Benini,Damiana Lazzaro,0.05
+Luca Benini,Serena Morigi,0.1
+Luca Benini,E. Loli Piccolomini,0.05
+Luca Benini,Elena Loli Piccolomini,0.05
+Foschini L.,Borsatti D.,0.05
+Foschini L.,Cerroni W.,0.15
+Foschini L.,Scotece D.,0.3
+Foschini L.,Rosa L.,0.1
+Foschini L.,Garbugli A.,0.1
+Foschini L.,Patera L.,0.25
+Foschini L.,Calvio A.,0.15
+Foschini L.,Bujari A.,0.2
+Foschini L.,Bellavista P.,1.5
+Foschini L.,Montanari R.,0.7
+Foschini L.,Di Modica G.,0.15
+Foschini L.,Sabbioni A.,0.15
+Foschini L.,Melandri S.,0.05
+Foschini L.,Mignardi V.,0.05
+Foschini L.,AL JAWARNEH ISAM MASHHOUR HASAN,0.15
+Foschini L.,Girolami M.,0.05
+Foschini L.,Isam M. Al Jawarneh,0.05
+Foschini L.,Venanzi R.,0.1
+Foschini L.,Al Jawarneh I. M.,0.05
+Foschini L.,Ghiselli N.,0.1
+Foschini L.,Acquaviva L.,0.05
+Rubano Vincenzo,Bertani Samuele,0.05
+Rubano Vincenzo,Mirri Silvia,0.05
+Rubano Vincenzo,Prandi Catia,0.05
+Rubano Vincenzo,Grillo Remo,0.1
+Rubano Vincenzo,Vitali Fabio,0.25
+Rubano Vincenzo,Lengua Chantal,0.1
+Rubano Vincenzo,vitali fabio,0.05
+Francesca Del Bonifro,Andrea Zanellati,0.05
+Francesca Del Bonifro,Stefano Pio Zingaro,0.05
+Francesca Del Bonifro,Maurizio Gabbrielli,0.1
+Francesca Del Bonifro,Olivia Levrini,0.05
+Francesca Del Bonifro,Chiara Panciroli,0.05
+Francesca Del Bonifro,Stefano Zingaro,0.05
+Pier Cesare Rivoltella,Chiara Panciroli,0.05
+Pier Cesare Rivoltella,Maurizio Gabbrielli,0.05
+Matteo Orsoni,Catia Prandi,0.05
+Matteo Orsoni,Sara Giovagnoli,0.05
+Matteo Orsoni,Mariagrazia Benassi,0.05
+Matteo Orsoni,Martina Benvenuti,0.05
+Andrea Garbugli,Armir Bujari,0.1
+Andrea Garbugli,Luca Foschini,0.05
+Andrea Garbugli,Andrea Sabbioni,0.05
+Andrea Garbugli,Antonio Corradi,0.05
+"Scotece, Domenico","Herrera, Juan Luis",0.1
+"Scotece, Domenico","Di Modica, Giuseppe",0.1
+"Scotece, Domenico","Cavallari, Riccardo",0.05
+"Scotece, Domenico","Herrera Gonzalez, Juan Luis",0.05
+"Scotece, Domenico","Montebugnoli, Sofia",0.05
+"Scotece, Domenico","Corradi, Antonio",0.1
+"Scotece, Domenico","Patera, Lorenzo",0.05
+"Scotece, Domenico","Solimando, Michele",0.05
+"Vallasciani, Giacomo","Montori, Federico",0.05
+"Vallasciani, Giacomo","Bononi, Luciano",0.05
+"Vallasciani, Giacomo","Di Felice, Marco",0.05
+"Garofalo, Angelo","Bruschi, Nazareno",0.1
+"Garofalo, Angelo","Tagliavini, Giuseppe",0.2
+"Garofalo, Angelo","Conti, Francesco",0.15
+"Garofalo, Angelo","Benini, Luca",0.15
+"Garofalo, Angelo","Rossi, Davide",0.2
+"Garofalo, Angelo","Montagna, Fabio",0.05
+Maurizio Sobrero,Riccardo Fini,0.05
+Maurizio Sobrero,Paolo Ciancarini,0.05
+Maurizio Sobrero,Angelo Di Iorio,0.05
+Maurizio Sobrero,Marcello Maria Mariani,0.05
+Maurizio Sobrero,Francesco Poggi,0.05
+Moazzeni S.,Callegati F.,0.05
+Zyrianoff I.,Heideker A.,0.1
+"Conti, Francesco","Bruschi, Nazareno",0.15
+"Conti, Francesco","Tagliavini, Giuseppe",0.2
+"Conti, Francesco","Benini, Luca",0.15
+"Conti, Francesco","Rossi, Davide",0.2
+"Bellone, Lorenzo","Gigli, Lorenzo",0.05
+"Bellone, Lorenzo","Di Felice, Marco",0.05
+Davide Rossi,Gianmarco Ottavi,0.05
+Davide Rossi,Giuseppe Tagliavini,0.2
+Davide Rossi,Francesco Conti,0.1
+Davide Rossi,Ivan Lanese,0.05
+Davide Rossi,Stefano Zacchiroli,0.05
+Davide Rossi,Nazareno Bruschi,0.05
+Davide Rossi,Andrea Marongiu,0.05
+Davide Rossi,Angelo Di Iorio,0.05
+Pasquale Cascarano,Silvia Garzarella,0.05
+Pasquale Cascarano,Lorenzo Stacchio,0.05
+Pasquale Cascarano,Allegra De Filippo,0.05
+Pasquale Cascarano,Gustavo Marfia,0.05
+Pasquale Cascarano,Elena Loli Piccolomini,0.1
+Pasquale Cascarano,Elena Morotti,0.05
+Pasquale Cascarano,Andrea Sebastiani,0.05
+Pasquale Cascarano,Francesco Corsini,0.05
+Pasquale Cascarano,Stefano Gandolfi,0.05
+Pasquale Cascarano,Emanuele Mandanici,0.05
+Pasquale Cascarano,Luca Tavasci,0.05
+Pasquale Cascarano,Fabiana Zama,0.05
+Tisbeni S. R.,Di Modica G.,0.05
+Tisbeni S. R.,Bellavista P.,0.05
+Scotece D.,Borsatti D.,0.05
+Scotece D.,Cerroni W.,0.05
+Scotece D.,Di Modica G.,0.1
+Scotece D.,Patera L.,0.05
+Scotece D.,Garbugli A.,0.05
+Scotece D.,Bujari A.,0.05
+Scotece D.,Mignardi V.,0.05
+Scotece D.,Montanari R.,0.05
+Scotece D.,Bellavista P.,0.15
+Donatiello L.,Bononi L.,0.1
+Donatiello L.,Longo D.,0.05
+Donatiello L.,Massari M.,0.05
+Donatiello L.,Stacchio L.,0.05
+Donatiello L.,Marfia G.,0.1
+Donatiello L.,Bujari A.,0.05
+Donatiello L.,D'Angelo G.,0.05
+"Corradi, Antonio","Rosa, Lorenzo",0.15
+"Corradi, Antonio","Jawarneh, Isam Mashhour Al",0.1
+"Corradi, Antonio","Montanari, Rebecca",0.3
+"Corradi, Antonio","Sabbioni, Andrea",0.2
+"Corradi, Antonio","Garbugli, Andrea",0.05
+"Corradi, Antonio","Bujari, Armir",0.1
+"Corradi, Antonio","Bosi, Filippo",0.05
+"Corradi, Antonio","Di Modica, Giuseppe",0.05
+"Corradi, Antonio","Patera, Lorenzo",0.15
+"Corradi, Antonio","Solimando, Michele",0.15
+"Corradi, Antonio","Al Jawarneh, Isam Mashhour",0.2
+"Corradi, Antonio","Zanni, Alessandro",0.15
+"Corradi, Antonio","Bartolini, Ilaria",0.05
+"Corradi, Antonio","Boeri, Andrea",0.05
+"Corradi, Antonio","Bononi, Luciano",0.05
+"Corradi, Antonio","Brath, Armando",0.05
+"Corradi, Antonio","Corazza, Giovanni Emanuele",0.05
+"Corradi, Antonio","De Miranda, Stefano",0.05
+"Corradi, Antonio","Fava, Fabio",0.05
+"Corradi, Antonio","Leoni, Giovanni",0.05
+"Corradi, Antonio","Longo, Danila",0.05
+"Corradi, Antonio","Milano, Michela",0.05
+"Corradi, Antonio","Napolitano, Fabio",0.05
+"Corradi, Antonio","Nucci, Carlo Alberto",0.05
+"Corradi, Antonio","Patella, Marco",0.05
+"Corradi, Antonio","Salmon Cinotti, Tullio",0.05
+"Corradi, Antonio","Tarchi, Daniele",0.05
+"Corradi, Antonio","Ubertini, Francesco",0.05
+"Corradi, Antonio","Vigo, Daniele",0.05
+"Corradi, Antonio","CASELLI, FEDERICO",0.05
+"Corradi, Antonio","CILLONI, MARCO",0.05
+"Tortorella, Yvan","Valente, Luca",0.05
+"Tortorella, Yvan","Sinigaglia, Mattia",0.05
+"Tortorella, Yvan","Tagliavini, Giuseppe",0.05
+"Tortorella, Yvan","Capotondi, Alessandro",0.05
+"Tortorella, Yvan","Benini, Luca",0.05
+"Tortorella, Yvan","Rossi, Davide",0.05
+"Milano, Michela","Farooq, Emmen",0.05
+"Milano, Michela","Borghesi, Andrea",0.6
+"Milano, Michela","Silvestri, Mattia",0.05
+"Milano, Michela","Lombardi, Michele",0.7
+"Milano, Michela","Giuliani, Luca",0.05
+"Milano, Michela","Mello, Paola",0.1
+"Milano, Michela","Baldo, Federico",0.05
+"Milano, Michela","Tagliavini, Giuseppe",0.05
+"Milano, Michela","Benini, Luca",0.3
+"Milano, Michela","Bartolini, Andrea",0.15
+"Milano, Michela","Bartolini, Ilaria",0.05
+"Milano, Michela","Boeri, Andrea",0.05
+"Milano, Michela","Bononi, Luciano",0.05
+"Milano, Michela","Brath, Armando",0.05
+"Milano, Michela","Corazza, Giovanni Emanuele",0.05
+"Milano, Michela","De Miranda, Stefano",0.05
+"Milano, Michela","Fava, Fabio",0.05
+"Milano, Michela","Leoni, Giovanni",0.05
+"Milano, Michela","Longo, Danila",0.05
+"Milano, Michela","Napolitano, Fabio",0.05
+"Milano, Michela","Nucci, Carlo Alberto",0.05
+"Milano, Michela","Patella, Marco",0.05
+"Milano, Michela","Salmon Cinotti, Tullio",0.05
+"Milano, Michela","Tarchi, Daniele",0.05
+"Milano, Michela","Ubertini, Francesco",0.05
+"Milano, Michela","Vigo, Daniele",0.05
+"Milano, Michela","Chisca, Danuta",0.05
+"Milano, Michela","Chesani, Federico",0.1
+"Milano, Michela","PETRARO, ALESSANDRO",0.05
+"Milano, Michela","IACHINI, VALERIO",0.05
+"Milano, Michela","Van Hentenryck, Pascal",0.05
+"Milano, Michela","Bragaglia, Stefano",0.05
+Berardi D.,Al Sadi A.,0.15
+Berardi D.,Callegati F.,0.25
+Berardi D.,Melis A.,0.3
+Berardi D.,Prandini M.,0.2
+Berardi D.,"Al Sadi A.
+Investigation",0.05
+Berardi D.,Gori G.,0.1
+Berardi D.,Rinieri L.,0.05
+Berardi D.,Prandini M.Validation,0.05
+Del Bonifro F.,Gabbrielli M.,0.05
+Del Bonifro F.,Zingaro S. P.,0.05
+"Lombardi, Michele","Verdone, Roberto",0.05
+"Lombardi, Michele","Amorosa, Lorenzo Mario",0.05
+"Lombardi, Michele","Silvestri, Mattia",0.1
+"Lombardi, Michele","Baldo, Federico",0.15
+"Lombardi, Michele","Piovesan, Allison",0.05
+"Lombardi, Michele","Ramacieri, Giuseppe",0.05
+"Lombardi, Michele","Caracausi, Maria",0.05
+"Lombardi, Michele","Antonaros, Francesca",0.05
+"Lombardi, Michele","Pelleri, Maria Chiara",0.05
+"Lombardi, Michele","Magnini, Andrea",0.05
+"Lombardi, Michele","Bujari, Armir",0.05
+"Lombardi, Michele","Shustikova, Iuliia",0.05
+"Lombardi, Michele","Persiano, Simone",0.05
+"Lombardi, Michele","Patella, Marco",0.05
+"Lombardi, Michele","Bitelli, Gabriele",0.05
+"Lombardi, Michele","Castellarin, Attilio",0.05
+"Lombardi, Michele","Misino, Eleonora",0.05
+"Lombardi, Michele","Borghesi, Andrea",0.25
+"Lombardi, Michele","Tagliavini, Giuseppe",0.05
+"Lombardi, Michele","Benini, Luca",0.2
+"Lombardi, Michele","Bartolini, Andrea",0.1
+"Lombardi, Michele","Chisca, Danuta",0.05
+Bambi Martina,Benvenuti Martina,0.05
+Bambi Martina,Gianfrate Valentina,0.05
+Bambi Martina,Prandi Catia,0.05
+Bambi Martina,Cattabriga Andrea,0.05
+Bambi Martina,Gambini Matteo,0.05
+Bambi Martina,Bertani Samuele,0.05
+Bambi Martina,Savito Francesco,0.05
+Bambi Martina,Zambon Tommaso,0.05
+Bambi Martina,Mazzoni Elvis,0.05
+Aguzzi C.,Ivan Dimitry Ribeiro Zyrianoff,0.05
+Aguzzi C.,Roffia L.,0.05
+Aguzzi C.,Zyrianoff Ivan Dimitry Ribeiro,0.05
+Aguzzi C.,Di Felice M.,0.3
+Aguzzi C.,Ribeiro Zyrianoff I.,0.05
+Aguzzi C.,Sciullo L.,0.15
+Aguzzi C.,Trotta A.,0.1
+Aguzzi C.,Zonzini F.,0.15
+Aguzzi C.,De Marchi L.,0.15
+Aguzzi C.,Marzani A.,0.1
+Aguzzi C.,Cinotti T. S.,0.15
+Aguzzi C.,Zyrianoff Ivan Dimitry,0.05
+Aguzzi C.,Venanzi R.,0.05
+Aguzzi C.,Sindaco S.,0.05
+Aguzzi C.,Zauli M.,0.05
+Aguzzi C.,Testoni Nicola,0.05
+Aguzzi C.,Bononi L.,0.05
+Aguzzi C.,Bellavista P.,0.05
+Aguzzi C.,Testoni N.,0.05
+"Montagna, Fabio","Tagliavini, Giuseppe",0.05
+"Montagna, Fabio","Rossi, Davide",0.05
+"Montagna, Fabio","Benini, Luca",0.05
+Francesca Tomasi,Valentina Pasqual,0.15
+Francesca Tomasi,Eduart Uzeir,0.05
+Francesca Tomasi,Fabio Vitali,0.25
+Francesca Tomasi,Marilena Daquino,0.1
+Francesca Tomasi,Francesca Mambelli,0.05
+Martina Benvenuti,Claudia Scorolli,0.05
+Martina Benvenuti,Angelo Di Iorio,0.05
+Martina Benvenuti,Catia Prandi,0.1
+Martina Benvenuti,Sara Giovagnoli,0.1
+Martina Benvenuti,Mariagrazia Benassi,0.05
+Martina Benvenuti,Alice Tartarini,0.05
+Martina Benvenuti,Silvia Mirri,0.05
+Talevi I.,Bacchiani L.,0.05
+Talevi I.,Bravetti M.,0.05
+Talevi I.,Giallorenzo S.,0.05
+Talevi I.,Zavattaro G.,0.05
+Bononi L.,Longo D.,0.05
+Bononi L.,Massari M.,0.05
+Bononi L.,Stacchio L.,0.05
+Bononi L.,Marfia G.,0.05
+Bononi L.,Sciullo L.,0.05
+Bononi L.,Trotta A.,0.25
+Bononi L.,Di Felice M.,0.35
+Bononi L.,Ghibellini A.,0.05
+Bononi L.,Montecchiari L.,0.1
+Bononi L.,Zyrianoff Ivan Dimitry,0.05
+Bononi L.,Venanzi R.,0.05
+Bononi L.,Sindaco S.,0.05
+Bononi L.,Zonzini F.,0.05
+Bononi L.,Zauli M.,0.05
+Bononi L.,Testoni Nicola,0.05
+Bononi L.,Bellavista P.,0.05
+Bononi L.,De Marchi L.,0.05
+Bononi L.,Cinotti T. S.,0.15
+Bononi L.,Bedogni L.,0.2
+Bononi L.,Perilli L.,0.1
+Bononi L.,Scarselli Eleonora Franchi,0.05
+Bononi L.,Scarselli E. F.,0.05
+Bononi L.,D'Angelo G.,0.1
+Bononi L.,D'Addona S.,0.05
+Lorenzo Bacchiani,Mario Bravetti,0.05
+Lorenzo Bacchiani,Saverio Giallorenzo,0.05
+Lorenzo Bacchiani,Maurizio Gabbrielli,0.05
+Lorenzo Bacchiani,Gianluigi Zavattaro,0.05
+Lorenzo Bacchiani,Stefano Pio Zingaro,0.05
+Francesco Balzan,Andrea Zanellati,0.05
+Francesco Balzan,Stefano Pio Zingaro,0.05
+Francesco Balzan,Maurizio Gabbrielli,0.05
+Paolillo Davide,Mazzoni Noemi,0.05
+Paolillo Davide,Succi Angelica,0.05
+Paolillo Davide,Giovagnoli Sara,0.05
+Paolillo Davide,Prandi Catia,0.05
+Paolillo Davide,Marotta Luigi,0.05
+Paolillo Davide,Benassi Mariagrazia,0.05
+Paolillo Davide,Matilde Spinoso,0.05
+Trotta A.,Sciullo L.,0.35
+Trotta A.,Di Felice M.,0.8
+Trotta A.,Montecchiari L.,0.1
+Trotta A.,Zonzini F.,0.05
+Trotta A.,De Marchi L.,0.05
+Trotta A.,Marzani A.,0.05
+Trotta A.,Cinotti T. S.,0.25
+Trotta A.,Ivan Dimitry Ribeiro Zyrianoff,0.05
+Trotta A.,Perilli L.,0.15
+Trotta A.,Scarselli Eleonora Franchi,0.1
+Trotta A.,Scarselli E. F.,0.05
+Rosa L.,Garbugli A.,0.15
+Rosa L.,Patera L.,0.05
+Rosa L.,Bellavista P.,0.1
+Gabbrielli M.,Bertini F.,0.05
+Gabbrielli M.,Montesi D.,0.05
+Gabbrielli M.,Prandini M.,0.05
+Gabbrielli M.,Zavattaro G.,0.1
+Gabbrielli M.,Bacchiani L.,0.05
+Gabbrielli M.,De Palma G.,0.05
+Gabbrielli M.,Sciullo L.,0.05
+Gabbrielli M.,Bravetti M.,0.05
+Gabbrielli M.,Di Felice M.,0.05
+Gabbrielli M.,Zingaro S. P.,0.1
+Gabbrielli M.,Giallorenzo S.,0.15
+Gabbrielli M.,Lanese I.,0.15
+Gabbrielli M.,Mauro J.,0.15
+Gabbrielli M.,Amadini R.,0.05
+Gabbrielli M.,Liu T.,0.05
+"Herrera Gonzalez, Juan Luis","Montebugnoli, Sofia",0.05
+"Manzini, Riccardo","PASCARELLA, PIETRO",0.05
+"Manzini, Riccardo","Patella, Marco",0.05
+"Borelli, Elena","Chiari, Lorenzo",0.05
+"Borelli, Elena","Tacconi, Carlo",0.05
+"Borelli, Elena","Cinotti, Tullio Salmon",0.05
+"Borelli, Elena","Roffia, Luca",0.05
+"Borelli, Elena","Antoniazzi, Francesco",0.05
+"Borelli, Elena","Costanzo, Alessandra",0.05
+"Borelli, Elena","Masotti, Diego",0.05
+"Borelli, Elena","Mello, Paola",0.05
+"Borelli, Elena","Chesani, Federico",0.05
+"Borelli, Elena","Loreti, Daniela",0.05
+"Ubertini, Francesco","Bartolini, Ilaria",0.05
+"Ubertini, Francesco","Boeri, Andrea",0.05
+"Ubertini, Francesco","Bononi, Luciano",0.05
+"Ubertini, Francesco","Brath, Armando",0.05
+"Ubertini, Francesco","Corazza, Giovanni Emanuele",0.05
+"Ubertini, Francesco","De Miranda, Stefano",0.05
+"Ubertini, Francesco","Fava, Fabio",0.05
+"Ubertini, Francesco","Leoni, Giovanni",0.05
+"Ubertini, Francesco","Longo, Danila",0.05
+"Ubertini, Francesco","Napolitano, Fabio",0.05
+"Ubertini, Francesco","Nucci, Carlo Alberto",0.05
+"Ubertini, Francesco","Patella, Marco",0.05
+"Ubertini, Francesco","Salmon Cinotti, Tullio",0.05
+"Ubertini, Francesco","Tarchi, Daniele",0.05
+"Ubertini, Francesco","Vigo, Daniele",0.05
+Giuseppe Tagliavini,Gianmarco Ottavi,0.05
+Giuseppe Tagliavini,Francesco Conti,0.1
+Giuseppe Tagliavini,Nazareno Bruschi,0.05
+Giuseppe Tagliavini,Andrea Marongiu,0.05
+Di Modica G.,Bellavista P.,0.1
+Di Modica G.,Patera L.,0.05
+Di Modica G.,Melandri S.,0.05
+"Mello, Paola","Chesani, Federico",0.5
+"Mello, Paola","Loreti, Daniela",0.4
+"Mello, Paola","Giuliani, Luca",0.05
+"Mello, Paola","Borghesi, Andrea",0.05
+"Mello, Paola","Grundler, Giulia",0.1
+"Mello, Paola","Montali, Marco",0.05
+"Mello, Paola","Chiari, Lorenzo",0.05
+"Mello, Paola","Tacconi, Carlo",0.05
+"Mello, Paola","Cinotti, Tullio Salmon",0.1
+"Mello, Paola","Roffia, Luca",0.1
+"Mello, Paola","Antoniazzi, Francesco",0.1
+"Mello, Paola","Costanzo, Alessandra",0.1
+"Mello, Paola","Masotti, Diego",0.1
+"Mello, Paola","Ciampolini, Anna",0.1
+Nicolo' Marchetti,Luca Casini,0.05
+Nicolo' Marchetti,Marco Roccetti,0.05
+Nicolo' Marchetti,Giovanni Delnevo,0.05
+Nicolo' Marchetti,Valentina Orru',0.05
+Elena loli Piccolomini,Damiana Lazzaro,0.05
+Elena loli Piccolomini,Fabiana Zama,0.05
+"Franchi, Eleonora","Aguzzi, Cristiano",0.05
+"Franchi, Eleonora","Antoniazzi, Francesco",0.05
+"Franchi, Eleonora","Bononi, Luciano",0.05
+"Franchi, Eleonora","Brasini, Francesco",0.05
+"Franchi, Eleonora","Canegallo, Roberto",0.05
+"Franchi, Eleonora","D'Elia, Alfredo",0.05
+"Franchi, Eleonora","De Lisa, Angelo",0.05
+"Franchi, Eleonora","Felice, Marco Di",0.05
+"Franchi, Eleonora","Perilli, Luca",0.05
+"Franchi, Eleonora","Roffia, Luca",0.05
+"Franchi, Eleonora","Sciullo, Luca",0.05
+"Franchi, Eleonora","Cinotti, Tullio Salmon",0.05
+"Zauli, Matteo","Montori, Federico",0.05
+"Zauli, Matteo","Zyrianoff, Ivan",0.05
+"Zauli, Matteo","Gigli, Lorenzo",0.05
+"Zauli, Matteo","Venanzi, Riccardo",0.05
+"Zauli, Matteo","Sindaco, Simone",0.05
+"Zauli, Matteo","Sciullo, Luca",0.05
+"Zauli, Matteo","Zonzini, Federica",0.05
+"Zauli, Matteo","Testoni, Nicola",0.05
+"Zauli, Matteo","Felice, Marco Di",0.05
+"Zauli, Matteo","Bononi, Luciano",0.05
+"Zauli, Matteo","De Marchi, Luca",0.05
+"Zauli, Matteo","Marzani, Alessandro",0.05
+"Zauli, Matteo","Cinotti, Tullio Salmon",0.05
+Mariagrazia Benassi,Davide Paolillo,0.05
+Mariagrazia Benassi,Matilde Spinoso,0.05
+Mariagrazia Benassi,Sara Giovagnoli,0.1
+Mariagrazia Benassi,Catia Prandi,0.1
+Zambon Tommaso,Benvenuti Martina,0.05
+Zambon Tommaso,Gianfrate Valentina,0.05
+Zambon Tommaso,Prandi Catia,0.05
+Zambon Tommaso,Cattabriga Andrea,0.05
+Zambon Tommaso,Gambini Matteo,0.05
+Zambon Tommaso,Bertani Samuele,0.05
+Zambon Tommaso,Savito Francesco,0.05
+Zambon Tommaso,Mazzoni Elvis,0.05
+Marco Torello,Paolo Bellavista,0.1
+Marco Torello,Antonio Corradi,0.1
+Marco Torello,Luca Foschini,0.1
+Marco Torello,Elena Lamberti,0.05
+Marco Torello,Giorgio dall'Osso,0.05
+Marco Torello,Rebecca Montanari,0.05
+Francesco Poggi,Silvia Mirri,0.05
+Francesco Poggi,Catia Prandi,0.05
+Francesco Poggi,Riccardo Fini,0.05
+Francesco Poggi,Paolo Ciancarini,0.05
+Francesco Poggi,Angelo Di Iorio,0.05
+Francesco Poggi,Marcello Maria Mariani,0.05
+Andrea Sebastiani,Elena Loli Piccolomini,0.05
+Andrea Sebastiani,Elena Morotti,0.05
+"Misino, Eleonora","Silvestri, Mattia",0.05
+"Misino, Eleonora","Baldo, Federico",0.05
+Nazareno Bruschi,Francesco Conti,0.05
+Allegra De Filippo,Silvia Garzarella,0.05
+Allegra De Filippo,Lorenzo Stacchio,0.05
+Allegra De Filippo,Gustavo Marfia,0.05
+Ribeiro Zyrianoff I.,Di Felice M.,0.05
+Bertini F.,Montesi D.,0.2
+Bertini F.,Diana A.,0.05
+Bertini F.,Rouhi R.,0.05
+Bertini F.,Leo L. S.,0.05
+Bertini F.,Porcu F.,0.05
+Bertini F.,Di Sabatino S.,0.05
+Mazzoni Elvis,Benvenuti Martina,0.05
+Mazzoni Elvis,Gianfrate Valentina,0.05
+Mazzoni Elvis,Prandi Catia,0.05
+Mazzoni Elvis,Cattabriga Andrea,0.05
+Mazzoni Elvis,Gambini Matteo,0.05
+Mazzoni Elvis,Bertani Samuele,0.05
+Mazzoni Elvis,Savito Francesco,0.05
+Sbaraglia M.,Lodi M.,0.05
+Sbaraglia M.,Zingaro S. P.,0.05
+Sbaraglia M.,Martini S.,0.05
+Pierluigi Contucci,Sergio Brasini,0.05
+Pierluigi Contucci,Marco Roccetti,0.05
+Sergio Brasini,Marco Roccetti,0.05
+E. Morotti,E. Loli Piccolomini,0.05
+Domenico Scotece,Luca Foschini,0.1
+Domenico Scotece,Paolo Bellavista,0.05
+Mauro J.,Giallorenzo S.,0.1
+Mauro J.,Lanese I.,0.1
+Mauro J.,Amadini R.,0.05
+Mauro J.,Liu T.,0.05
+"Caracausi, Maria","Baldo, Federico",0.05
+"Caracausi, Maria","Piovesan, Allison",0.05
+"Caracausi, Maria","Ramacieri, Giuseppe",0.05
+"Caracausi, Maria","Antonaros, Francesca",0.05
+"Caracausi, Maria","Pelleri, Maria Chiara",0.05
+"Rossi, Davide","Mirsalari, Seyed Ahmad",0.05
+"Rossi, Davide","Tagliavini, Giuseppe",0.5
+"Rossi, Davide","Benini, Luca",0.45
+"Rossi, Davide","Bruschi, Nazareno",0.15
+"Rossi, Davide","Valente, Luca",0.05
+"Rossi, Davide","Sinigaglia, Mattia",0.05
+"Rossi, Davide","Capotondi, Alessandro",0.05
+"Rossi, Davide","Bedogni, Luca",0.05
+"Rossi, Davide","Prasad, Rohit",0.05
+"Rossi, Davide","Das, Satyajit",0.05
+"Rossi, Davide","Marongiu, Andrea",0.1
+Benvenuti Martina,Gianfrate Valentina,0.05
+Benvenuti Martina,Prandi Catia,0.05
+Benvenuti Martina,Cattabriga Andrea,0.05
+Benvenuti Martina,Gambini Matteo,0.05
+Benvenuti Martina,Bertani Samuele,0.05
+Benvenuti Martina,Savito Francesco,0.05
+Nicola Dragoni,Ivan Lanese,0.05
+Nicola Dragoni,Manuel Mazzara,0.1
+Nicola Dragoni,Saverio Giallorenzo,0.05
+Luca Tavasci,Elena Loli Piccolomini,0.1
+Luca Tavasci,Stefano Gandolfi,0.1
+Luca Tavasci,"CASCARANO, PASQUALE",0.05
+Luca Tavasci,Andrea Pascucci,0.05
+Luca Tavasci,Francesco Corsini,0.05
+Luca Tavasci,Emanuele Mandanici,0.05
+Luca Tavasci,Fabiana Zama,0.05
+"Bartolini, Ilaria","Patella, Marco",0.2
+"Bartolini, Ilaria","Boeri, Andrea",0.05
+"Bartolini, Ilaria","Bononi, Luciano",0.05
+"Bartolini, Ilaria","Brath, Armando",0.05
+"Bartolini, Ilaria","Corazza, Giovanni Emanuele",0.05
+"Bartolini, Ilaria","De Miranda, Stefano",0.05
+"Bartolini, Ilaria","Fava, Fabio",0.05
+"Bartolini, Ilaria","Leoni, Giovanni",0.05
+"Bartolini, Ilaria","Longo, Danila",0.05
+"Bartolini, Ilaria","Napolitano, Fabio",0.05
+"Bartolini, Ilaria","Nucci, Carlo Alberto",0.05
+"Bartolini, Ilaria","Salmon Cinotti, Tullio",0.05
+"Bartolini, Ilaria","Tarchi, Daniele",0.05
+"Bartolini, Ilaria","Vigo, Daniele",0.05
+"Bartolini, Ilaria","Pizza, Fabio",0.05
+"Bartolini, Ilaria","Vandi, Stefano",0.05
+"Bartolini, Ilaria","Plazzi, Giuseppe",0.05
+Guidi F.,Sacerdoti Coen C.,0.05
+"De Lisa, Angelo","Aguzzi, Cristiano",0.05
+"De Lisa, Angelo","Antoniazzi, Francesco",0.05
+"De Lisa, Angelo","Bononi, Luciano",0.05
+"De Lisa, Angelo","Brasini, Francesco",0.05
+"De Lisa, Angelo","Canegallo, Roberto",0.05
+"De Lisa, Angelo","D'Elia, Alfredo",0.05
+"De Lisa, Angelo","Felice, Marco Di",0.05
+"De Lisa, Angelo","Perilli, Luca",0.05
+"De Lisa, Angelo","Roffia, Luca",0.05
+"De Lisa, Angelo","Sciullo, Luca",0.05
+"De Lisa, Angelo","Cinotti, Tullio Salmon",0.05
+"Sindaco, Simone","Montori, Federico",0.05
+"Sindaco, Simone","Zyrianoff, Ivan",0.05
+"Sindaco, Simone","Gigli, Lorenzo",0.05
+"Sindaco, Simone","Venanzi, Riccardo",0.05
+"Sindaco, Simone","Sciullo, Luca",0.05
+"Sindaco, Simone","Zonzini, Federica",0.05
+"Sindaco, Simone","Testoni, Nicola",0.05
+"Sindaco, Simone","Felice, Marco Di",0.05
+"Sindaco, Simone","Bononi, Luciano",0.05
+"Sindaco, Simone","De Marchi, Luca",0.05
+"Sindaco, Simone","Marzani, Alessandro",0.05
+"Sindaco, Simone","Cinotti, Tullio Salmon",0.05
+"Ardebili, Mohsen Seyedkazemi","Borghesi, Andrea",0.05
+"Ardebili, Mohsen Seyedkazemi","Di Santi, Carmine",0.05
+"Ardebili, Mohsen Seyedkazemi","Molan, Martin",0.05
+"Ardebili, Mohsen Seyedkazemi","Guarrasi, Massimiliano",0.05
+"Ardebili, Mohsen Seyedkazemi","Barchi, Francesco",0.05
+"Ardebili, Mohsen Seyedkazemi","Benini, Luca",0.05
+"Ardebili, Mohsen Seyedkazemi","Bartolini, Andrea",0.05
+"Piovesan, Allison","Baldo, Federico",0.05
+"Piovesan, Allison","Ramacieri, Giuseppe",0.05
+"Piovesan, Allison","Antonaros, Francesca",0.05
+"Piovesan, Allison","Pelleri, Maria Chiara",0.05
+"Herrera, Juan Luis","Di Modica, Giuseppe",0.1
+Pernafini A.,Callegati F.,0.05
+Pernafini A.,Campi A.,0.05
+Pernafini A.,Contoli C.,0.05
+Pernafini A.,Di Santi S.,0.05
+Pernafini A.,Ghiselli N.,0.05
+Romandini N.,Mazzocca C.,0.05
+Romandini N.,Colajanni M.,0.05
+Romandini N.,Montanari R.,0.05
+Zyrianoff Ivan Dimitry Ribeiro,Di Felice M.,0.05
+"NOOR, ASMA",Paolo Bellavista,0.05
+"NOOR, ASMA",Antonio Corradi,0.05
+"NOOR, ASMA",Luca Foschini,0.05
+"NOOR, ASMA",Alessandro Zanni,0.05
+"CONTIGIANI, RICCARDO","Montori, Federico",0.05
+"CONTIGIANI, RICCARDO","Bedogni, Luca",0.05
+Bedogni L.,Zichichi M.,0.05
+Bedogni L.,Ferretti S.,0.05
+Bedogni L.,Di Felice M.,0.05
+"Masotti, Diego","Chiari, Lorenzo",0.05
+"Masotti, Diego","Tacconi, Carlo",0.05
+"Masotti, Diego","Cinotti, Tullio Salmon",0.1
+"Masotti, Diego","Roffia, Luca",0.1
+"Masotti, Diego","Antoniazzi, Francesco",0.1
+"Masotti, Diego","Costanzo, Alessandra",0.1
+"Masotti, Diego","Chesani, Federico",0.1
+"Masotti, Diego","Loreti, Daniela",0.1
+SIMONE MARTINI,Maurizio Gabbrielli,0.05
+Gianna Bertacchi,Fabrizio Apollonio,0.05
+Gianna Bertacchi,Silvia Bertacchi,0.05
+Gianna Bertacchi,Massimo Ballabeni,0.05
+Gianna Bertacchi,"TORELLO, MARCO",0.05
+Gianna Bertacchi,Rebecca Montanari,0.05
+Iacobelli A.,Rinieri L.,0.1
+Iacobelli A.,Melis A.,0.1
+Iacobelli A.,Prandini M.,0.1
+Iacobelli A.,Callegati F.,0.1
+Iacobelli A.,Al Sadi A.,0.05
+"Solimando, Michele","Venanzi, Riccardo",0.1
+"Solimando, Michele","Campioni, Lorenzo",0.05
+"Solimando, Michele","Cavalucci, Alberto",0.05
+"Solimando, Michele","Montanari, Rebecca",0.15
+"Solimando, Michele","Cilloni, Marco",0.05
+"Solimando, Michele","Di Modica, Giuseppe",0.1
+"Solimando, Michele","Carlo Maiorano Picone, Pasquale",0.05
+"Solimando, Michele","Bosi, Filippo",0.05
+"Solimando, Michele","Patera, Lorenzo",0.15
+"PASCARELLA, PIETRO","Patella, Marco",0.05
+Palmirani Monica,Girardi Dino,0.05
+Palmirani Monica,Vitali Fabio,0.05
+"Babaoglu, Ozalp","Netti, Alessio",0.05
+"Babaoglu, Ozalp","Kiziltan, Zeynep",0.15
+"Babaoglu, Ozalp","Sîrbu, Alina",0.15
+"Babaoglu, Ozalp","Bartolini, Andrea",0.05
+"Babaoglu, Ozalp","Borghesi, Andrea",0.1
+"Babaoglu, Ozalp","GALLEGUILLOS MICCONO, CRISTIAN ALEJANDRO",0.1
+"Babaoglu, Ozalp","NETTI, ALESSIO",0.05
+Elena Loli Piccolomini,Elena Morotti,0.1
+Elena Loli Piccolomini,Stefano Gandolfi,0.1
+Elena Loli Piccolomini,"CASCARANO, PASQUALE",0.05
+Elena Loli Piccolomini,Andrea Pascucci,0.05
+Elena Loli Piccolomini,Francesco Corsini,0.05
+Elena Loli Piccolomini,Emanuele Mandanici,0.05
+Elena Loli Piccolomini,Fabiana Zama,0.05
+Elena Loli Piccolomini,Serena Morigi,0.05
+"Sciullo, Luca","Montori, Federico",0.45
+"Sciullo, Luca","Bononi, Luciano",0.15
+"Sciullo, Luca","Di Felice, Marco",0.4
+"Sciullo, Luca","Zyrianoff, Ivan",0.2
+"Sciullo, Luca","Gigli, Lorenzo",0.3
+"Sciullo, Luca","Bedogni, Luca",0.1
+"Sciullo, Luca","Venanzi, Riccardo",0.05
+"Sciullo, Luca","Zonzini, Federica",0.05
+"Sciullo, Luca","Testoni, Nicola",0.05
+"Sciullo, Luca","Felice, Marco Di",0.15
+"Sciullo, Luca","De Marchi, Luca",0.05
+"Sciullo, Luca","Marzani, Alessandro",0.15
+"Sciullo, Luca","Cinotti, Tullio Salmon",0.1
+"Sciullo, Luca","Kamali, Soroosh",0.05
+"Sciullo, Luca","Aguzzi, Cristiano",0.05
+"Sciullo, Luca","Antoniazzi, Francesco",0.05
+"Sciullo, Luca","Brasini, Francesco",0.05
+"Sciullo, Luca","Canegallo, Roberto",0.05
+"Sciullo, Luca","D'Elia, Alfredo",0.05
+"Sciullo, Luca","Perilli, Luca",0.05
+"Sciullo, Luca","Roffia, Luca",0.05
+Zyrianoff Ivan Dimitry,Venanzi R.,0.05
+Zyrianoff Ivan Dimitry,Sindaco S.,0.05
+Zyrianoff Ivan Dimitry,Zonzini F.,0.05
+Zyrianoff Ivan Dimitry,Zauli M.,0.05
+Zyrianoff Ivan Dimitry,Testoni Nicola,0.05
+Zyrianoff Ivan Dimitry,Di Felice M.,0.05
+Zyrianoff Ivan Dimitry,Bellavista P.,0.05
+Zyrianoff Ivan Dimitry,De Marchi L.,0.05
+Zyrianoff Ivan Dimitry,Cinotti T. S.,0.05
+"Franceschelli, Giorgio","Musolesi, Mirco",0.2
+De Palma G.,Bacchiani L.,0.05
+De Palma G.,Sciullo L.,0.05
+De Palma G.,Bravetti M.,0.05
+De Palma G.,Di Felice M.,0.05
+De Palma G.,Zavattaro G.,0.05
+"Chesani, Federico","Loreti, Daniela",0.4
+"Chesani, Federico","Grundler, Giulia",0.1
+"Chesani, Federico","Montali, Marco",0.05
+"Chesani, Federico","Belvederi Murri, Martino",0.05
+"Chesani, Federico","Cattelani, Luca",0.1
+"Chesani, Federico","Palumbo, Pierpaolo",0.1
+"Chesani, Federico","Chiari, Lorenzo",0.1
+"Chesani, Federico","Tacconi, Carlo",0.05
+"Chesani, Federico","Cinotti, Tullio Salmon",0.1
+"Chesani, Federico","Roffia, Luca",0.1
+"Chesani, Federico","Antoniazzi, Francesco",0.1
+"Chesani, Federico","Costanzo, Alessandra",0.1
+"Chesani, Federico","Ciampolini, Anna",0.1
+"Chesani, Federico","Bragaglia, Stefano",0.05
+"Tarchi, Daniele","Bujari, Armir",0.05
+"Tarchi, Daniele","Garbugli, Andrea",0.05
+"Tarchi, Daniele","Boeri, Andrea",0.05
+"Tarchi, Daniele","Bononi, Luciano",0.05
+"Tarchi, Daniele","Brath, Armando",0.05
+"Tarchi, Daniele","Corazza, Giovanni Emanuele",0.05
+"Tarchi, Daniele","De Miranda, Stefano",0.05
+"Tarchi, Daniele","Fava, Fabio",0.05
+"Tarchi, Daniele","Leoni, Giovanni",0.05
+"Tarchi, Daniele","Longo, Danila",0.05
+"Tarchi, Daniele","Napolitano, Fabio",0.05
+"Tarchi, Daniele","Nucci, Carlo Alberto",0.05
+"Tarchi, Daniele","Patella, Marco",0.05
+"Tarchi, Daniele","Salmon Cinotti, Tullio",0.05
+"Tarchi, Daniele","Vigo, Daniele",0.05
+"Benini, Luca","Tabanelli, Enrico",0.05
+"Benini, Luca","Tagliavini, Giuseppe",0.65
+"Benini, Luca","Mirsalari, Seyed Ahmad",0.05
+"Benini, Luca","Bruschi, Nazareno",0.1
+"Benini, Luca","Valente, Luca",0.05
+"Benini, Luca","Sinigaglia, Mattia",0.05
+"Benini, Luca","Capotondi, Alessandro",0.05
+"Benini, Luca","Borghesi, Andrea",0.45
+"Benini, Luca","Di Santi, Carmine",0.05
+"Benini, Luca","Molan, Martin",0.05
+"Benini, Luca","Guarrasi, Massimiliano",0.05
+"Benini, Luca","Barchi, Francesco",0.05
+"Benini, Luca","Bartolini, Andrea",0.3
+"Benini, Luca","Marongiu, Andrea",0.2
+"Benini, Luca","Prasad, Rohit",0.05
+"Benini, Luca","Das, Satyajit",0.05
+"Benini, Luca","Cesarini, Daniele",0.1
+Lorenzo Rinieri,Franco Callegati,0.05
+Lorenzo Rinieri,Andrea Giovine,0.05
+Lorenzo Rinieri,Marco Prandini,0.05
+Di Felice M.,Zichichi M.,0.05
+Di Felice M.,Ferretti S.,0.05
+Di Felice M.,Sciullo L.,0.45
+Di Felice M.,Ribeiro Zyrianoff I. D.,0.05
+Di Felice M.,Bacchiani L.,0.05
+Di Felice M.,Bravetti M.,0.05
+Di Felice M.,Zavattaro G.,0.05
+Di Felice M.,Ghibellini A.,0.05
+Di Felice M.,Montecchiari L.,0.1
+Di Felice M.,Zonzini F.,0.15
+Di Felice M.,De Marchi L.,0.15
+Di Felice M.,Marzani A.,0.1
+Di Felice M.,Cinotti T. S.,0.35
+Di Felice M.,Venanzi R.,0.05
+Di Felice M.,Sindaco S.,0.05
+Di Felice M.,Zauli M.,0.05
+Di Felice M.,Testoni Nicola,0.05
+Di Felice M.,Bellavista P.,0.05
+Di Felice M.,Ivan Dimitry Ribeiro Zyrianoff,0.1
+Di Felice M.,Testoni N.,0.05
+Di Felice M.,Perilli L.,0.15
+Di Felice M.,Scarselli Eleonora Franchi,0.1
+Di Felice M.,Scarselli E. F.,0.05
+"Zyrianoff, Ivan","Gigli, Lorenzo",0.25
+"Zyrianoff, Ivan","Zonzini, Federica",0.1
+"Zyrianoff, Ivan","Testoni, Nicola",0.1
+"Zyrianoff, Ivan","Felice, Marco Di",0.1
+"Zyrianoff, Ivan","De Marchi, Luca",0.1
+"Zyrianoff, Ivan","Marzani, Alessandro",0.1
+"Zyrianoff, Ivan","Montori, Federico",0.25
+"Zyrianoff, Ivan","Di Felice, Marco",0.2
+"Zyrianoff, Ivan","Venanzi, Riccardo",0.05
+"Zyrianoff, Ivan","Bononi, Luciano",0.05
+"Zyrianoff, Ivan","Cinotti, Tullio Salmon",0.05
+"Zyrianoff, Ivan","Aguzzi, Cristiano",0.05
+"Zyrianoff, Ivan","Roffia, Luca",0.05
+"Gigli, Lorenzo","Zonzini, Federica",0.1
+"Gigli, Lorenzo","Testoni, Nicola",0.1
+"Gigli, Lorenzo","Felice, Marco Di",0.15
+"Gigli, Lorenzo","De Marchi, Luca",0.1
+"Gigli, Lorenzo","Marzani, Alessandro",0.15
+"Gigli, Lorenzo","Montori, Federico",0.4
+"Gigli, Lorenzo","Di Felice, Marco",0.3
+"Gigli, Lorenzo","Venanzi, Riccardo",0.05
+"Gigli, Lorenzo","Bononi, Luciano",0.1
+"Gigli, Lorenzo","Cinotti, Tullio Salmon",0.05
+"Gigli, Lorenzo","Bedogni, Luca",0.1
+"Gigli, Lorenzo","Aguzzi, Cristiano",0.05
+"Gigli, Lorenzo","Roffia, Luca",0.05
+"Gigli, Lorenzo","Neri, Giacomo",0.05
+Giallorenzo S.,Amadini R.,0.15
+Giallorenzo S.,Brogi A.,0.15
+Giallorenzo S.,Zavattaro G.,0.2
+Giallorenzo S.,Bacchiani L.,0.05
+Giallorenzo S.,Bravetti M.,0.05
+Giallorenzo S.,Lanese I.,0.15
+Giallorenzo S.,Zingaro S. P.,0.1
+"Di Modica, Giuseppe","Costantini, Alessandro",0.05
+"Di Modica, Giuseppe","Galletti, Matteo",0.05
+"Di Modica, Giuseppe","Tisbeni, Simone Rossi",0.05
+"Di Modica, Giuseppe","Cesini, Daniele",0.05
+"Di Modica, Giuseppe","Bujari, Armir",0.05
+"Di Modica, Giuseppe","Cilloni, Marco",0.05
+"Di Modica, Giuseppe","Montanari, Rebecca",0.1
+"Di Modica, Giuseppe","Carlo Maiorano Picone, Pasquale",0.05
+"Di Modica, Giuseppe","Bosi, Filippo",0.05
+"Di Modica, Giuseppe","Patera, Lorenzo",0.05
+Giachino E.,Sangiorgi D.,0.05
+Giachino E.,Zavattaro G.,0.05
+Brogi A.,Amadini R.,0.15
+Brogi A.,Zavattaro G.,0.15
+Testoni Nicola,Venanzi R.,0.05
+Testoni Nicola,Sindaco S.,0.05
+Testoni Nicola,Zonzini F.,0.05
+Testoni Nicola,Zauli M.,0.05
+Testoni Nicola,Bellavista P.,0.05
+Testoni Nicola,De Marchi L.,0.05
+Testoni Nicola,Cinotti T. S.,0.05
+Davide Paolillo,Matilde Spinoso,0.05
+Davide Paolillo,Sara Giovagnoli,0.05
+Davide Paolillo,Catia Prandi,0.05
+Liu T.,Amadini R.,0.05
+"SOLIMANDO, MICHELE","Zanni, Alessandro",0.05
+"Felice, Marco Di","Zonzini, Federica",0.1
+"Felice, Marco Di","Testoni, Nicola",0.1
+"Felice, Marco Di","De Marchi, Luca",0.1
+"Felice, Marco Di","Marzani, Alessandro",0.1
+"Felice, Marco Di","Montori, Federico",0.15
+"Felice, Marco Di","Venanzi, Riccardo",0.05
+"Felice, Marco Di","Bononi, Luciano",0.2
+"Felice, Marco Di","Cinotti, Tullio Salmon",0.1
+"Felice, Marco Di","Bedogni, Luca",0.05
+"Felice, Marco Di","Aguzzi, Cristiano",0.05
+"Felice, Marco Di","Antoniazzi, Francesco",0.05
+"Felice, Marco Di","Brasini, Francesco",0.05
+"Felice, Marco Di","Canegallo, Roberto",0.05
+"Felice, Marco Di","D'Elia, Alfredo",0.05
+"Felice, Marco Di","Perilli, Luca",0.05
+"Felice, Marco Di","Roffia, Luca",0.05
+Zauli M.,Venanzi R.,0.05
+Zauli M.,Sindaco S.,0.05
+Zauli M.,Zonzini F.,0.05
+Zauli M.,Bellavista P.,0.05
+Zauli M.,De Marchi L.,0.05
+Zauli M.,Cinotti T. S.,0.05
+Luca Casini,Marco Roccetti,0.15
+Luca Casini,Giovanni Delnevo,0.1
+Luca Casini,Valentina Orru',0.05
+Luca Casini,Gustavo Marfia,0.05
+"Cilloni, Marco","Montanari, Rebecca",0.05
+"Cilloni, Marco","Carlo Maiorano Picone, Pasquale",0.05
+"Nucci, Carlo Alberto","Boeri, Andrea",0.05
+"Nucci, Carlo Alberto","Bononi, Luciano",0.1
+"Nucci, Carlo Alberto","Brath, Armando",0.05
+"Nucci, Carlo Alberto","Corazza, Giovanni Emanuele",0.05
+"Nucci, Carlo Alberto","De Miranda, Stefano",0.05
+"Nucci, Carlo Alberto","Fava, Fabio",0.05
+"Nucci, Carlo Alberto","Leoni, Giovanni",0.05
+"Nucci, Carlo Alberto","Longo, Danila",0.05
+"Nucci, Carlo Alberto","Napolitano, Fabio",0.1
+"Nucci, Carlo Alberto","Patella, Marco",0.05
+"Nucci, Carlo Alberto","Salmon Cinotti, Tullio",0.1
+"Nucci, Carlo Alberto","Vigo, Daniele",0.05
+"Nucci, Carlo Alberto","Bedogni, Luca",0.05
+"Nucci, Carlo Alberto","D'Elia, Alfredo",0.05
+"Nucci, Carlo Alberto","Di Felice, Marco",0.05
+"Nucci, Carlo Alberto","Montori, Federico",0.05
+"Nucci, Carlo Alberto","Viola, Fabio",0.05
+Ulidowski I.,Lanese I.,0.1
+Ulidowski I.,Mezzina C. A.,0.05
+Borsatti D.,Cerroni W.,0.15
+Borsatti D.,Callegati F.,0.1
+"Brasini, Francesco","Aguzzi, Cristiano",0.05
+"Brasini, Francesco","Antoniazzi, Francesco",0.05
+"Brasini, Francesco","Bononi, Luciano",0.05
+"Brasini, Francesco","Canegallo, Roberto",0.05
+"Brasini, Francesco","D'Elia, Alfredo",0.05
+"Brasini, Francesco","Perilli, Luca",0.05
+"Brasini, Francesco","Roffia, Luca",0.05
+"Brasini, Francesco","Cinotti, Tullio Salmon",0.05
+Marco Prandini,Franco Callegati,0.3
+Marco Prandini,Andrea Giovine,0.05
+Marco Prandini,Saverio Giallorenzo,0.1
+Marco Prandini,Amir Al Sadi,0.1
+Marco Prandini,Maurizio Gabbrielli,0.05
+Marco Prandini,Giovanni Delnevo,0.05
+Marco Prandini,Silvia Mirri,0.05
+Marco Prandini,Paola Salomoni,0.05
+Gambini Matteo,Gianfrate Valentina,0.05
+Gambini Matteo,Prandi Catia,0.05
+Gambini Matteo,Cattabriga Andrea,0.05
+Gambini Matteo,Bertani Samuele,0.05
+Gambini Matteo,Savito Francesco,0.05
+"Kamali, Soroosh","Marzani, Alessandro",0.05
+"Kamali, Soroosh","Di Felice, Marco",0.05
+"Carlo Maiorano Picone, Pasquale","Montanari, Rebecca",0.05
+"Apollonio, Fabrizio Ivan","Bertacchi, Silvia",0.05
+"Apollonio, Fabrizio Ivan","Al Jawarneh, Isam Mashhour",0.05
+"Apollonio, Fabrizio Ivan","Bertacchi, Gianna",0.05
+"Apollonio, Fabrizio Ivan","Montanari, Rebecca",0.05
+Marilena Daquino,Valentina Pasqual,0.05
+Marilena Daquino,Fabio Vitali,0.1
+Marilena Daquino,Francesca Mambelli,0.05
+Tong Liu,Roberto Amadini,0.05
+Tong Liu,Maurizio Gabbrielli,0.1
+Tong Liu,Jacopo Mauro,0.05
+Tong Liu,Franco Callegati,0.05
+Tong Liu,Walter Cerroni,0.05
+Tong Liu,Chiara Contoli,0.05
+Durier A.,Sangiorgi D.,0.05
+Eduart Uzeir,Valentina Pasqual,0.05
+Eduart Uzeir,Fabio Vitali,0.05
+Maurizio Gabbrielli,Andrea Zanellati,0.2
+Maurizio Gabbrielli,Anita Macauda,0.05
+Maurizio Gabbrielli,Chiara Panciroli,0.15
+Maurizio Gabbrielli,Roberto Amadini,0.05
+Maurizio Gabbrielli,Jacopo Mauro,0.05
+Maurizio Gabbrielli,Stefano Pio Zingaro,0.25
+Maurizio Gabbrielli,Mario Bravetti,0.05
+Maurizio Gabbrielli,Saverio Giallorenzo,0.1
+Maurizio Gabbrielli,Gianluigi Zavattaro,0.05
+Maurizio Gabbrielli,Olivia Levrini,0.05
+Maurizio Gabbrielli,Stefano Zingaro,0.05
+Maurizio Gabbrielli,Franco Callegati,0.1
+Maurizio Gabbrielli,Walter Cerroni,0.05
+Maurizio Gabbrielli,Chiara Contoli,0.05
+Lorenzo Monti,Silvia Mirri,0.05
+Lorenzo Monti,Catia Prandi,0.05
+Lorenzo Monti,Paola Salomoni,0.05
+Sindaco S.,Venanzi R.,0.05
+Sindaco S.,Zonzini F.,0.05
+Sindaco S.,Bellavista P.,0.05
+Sindaco S.,De Marchi L.,0.05
+Sindaco S.,Cinotti T. S.,0.05
+"Neri, Giacomo","Montori, Federico",0.05
+"Neri, Giacomo","Bedogni, Luca",0.05
+"Neri, Giacomo","Di Felice, Marco",0.05
+"Neri, Giacomo","Bononi, Luciano",0.05
+"Costantini, Alessandro","Galletti, Matteo",0.05
+"Costantini, Alessandro","Tisbeni, Simone Rossi",0.05
+"Costantini, Alessandro","Cesini, Daniele",0.05
+Venanzi R.,Zonzini F.,0.05
+Venanzi R.,Bellavista P.,0.2
+Venanzi R.,De Marchi L.,0.05
+Venanzi R.,Cinotti T. S.,0.05
+"Molan, Martin","Borghesi, Andrea",0.05
+"Molan, Martin","Di Santi, Carmine",0.05
+"Molan, Martin","Guarrasi, Massimiliano",0.05
+"Molan, Martin","Barchi, Francesco",0.05
+"Molan, Martin","Bartolini, Andrea",0.05
+Elena Lamberti,Paolo Bellavista,0.05
+Elena Lamberti,Antonio Corradi,0.05
+Elena Lamberti,Luca Foschini,0.05
+"Fava, Fabio","Boeri, Andrea",0.05
+"Fava, Fabio","Bononi, Luciano",0.05
+"Fava, Fabio","Brath, Armando",0.05
+"Fava, Fabio","Corazza, Giovanni Emanuele",0.05
+"Fava, Fabio","De Miranda, Stefano",0.05
+"Fava, Fabio","Leoni, Giovanni",0.05
+"Fava, Fabio","Longo, Danila",0.05
+"Fava, Fabio","Napolitano, Fabio",0.05
+"Fava, Fabio","Patella, Marco",0.05
+"Fava, Fabio","Salmon Cinotti, Tullio",0.05
+"Fava, Fabio","Vigo, Daniele",0.05
+"De Marchi, Luca","Zonzini, Federica",0.1
+"De Marchi, Luca","Testoni, Nicola",0.1
+"De Marchi, Luca","Marzani, Alessandro",0.1
+"De Marchi, Luca","Montori, Federico",0.05
+"De Marchi, Luca","Venanzi, Riccardo",0.05
+"De Marchi, Luca","Bononi, Luciano",0.05
+"De Marchi, Luca","Cinotti, Tullio Salmon",0.05
+"Galletti, Matteo","Tisbeni, Simone Rossi",0.05
+"Galletti, Matteo","Cesini, Daniele",0.05
+Mazzoni Noemi,Succi Angelica,0.05
+Mazzoni Noemi,Giovagnoli Sara,0.05
+Mazzoni Noemi,Prandi Catia,0.05
+Mazzoni Noemi,Marotta Luigi,0.05
+Mazzoni Noemi,Benassi Mariagrazia,0.05
+Mazzoni Noemi,Matilde Spinoso,0.05
+Damiana Lazzaro,Serena Morigi,0.05
+Damiana Lazzaro,E. Loli Piccolomini,0.05
+Damiana Lazzaro,Fabiana Zama,0.05
+Giorgio dall'Osso,Rebecca Montanari,0.05
+E. Loli Piccolomini,Serena Morigi,0.05
+Gori G.,Melis A.,0.15
+Gori G.,Prandini M.,0.1
+Gori G.,Al Sadi A.,0.15
+Gori G.,Callegati F.,0.1
+Gori G.,Rinieri L.,0.1
+"Cesarini, Daniele","Bartolini, Andrea",0.1
+"Cesarini, Daniele","Borghesi, Andrea",0.1
+"Cesarini, Daniele","Tagliavini, Giuseppe",0.05
+"Cesarini, Daniele","Marongiu, Andrea",0.05
+Marcello Maria Mariani,Riccardo Fini,0.05
+Marcello Maria Mariani,Paolo Ciancarini,0.05
+Marcello Maria Mariani,Angelo Di Iorio,0.05
+Zonzini F.,Sciullo L.,0.1
+Zonzini F.,De Marchi L.,0.15
+Zonzini F.,Marzani A.,0.1
+Zonzini F.,Cinotti T. S.,0.15
+Zonzini F.,Bellavista P.,0.05
+Zonzini F.,Testoni N.,0.05
+Scarselli E. F.,Perilli L.,0.05
+Scarselli E. F.,Cinotti T. S.,0.05
+Iacopo Talevi,Mario Bravetti,0.05
+Iacopo Talevi,Saverio Giallorenzo,0.05
+Iacopo Talevi,Gianluigi Zavattaro,0.05
+"Pelleri, Maria Chiara","Baldo, Federico",0.05
+"Pelleri, Maria Chiara","Ramacieri, Giuseppe",0.05
+"Pelleri, Maria Chiara","Antonaros, Francesca",0.05
+Leo L. S.,Porcu F.,0.05
+Leo L. S.,Montesi D.,0.05
+Leo L. S.,Di Sabatino S.,0.05
+Zavattaro G.,Amadini R.,0.15
+Zavattaro G.,Prandini M.,0.05
+Zavattaro G.,Bacchiani L.,0.15
+Zavattaro G.,Sciullo L.,0.05
+Zavattaro G.,Bravetti M.,0.35
+Zavattaro G.,Lanese I.,0.05
+Zavattaro G.,Sangiorgi D.,0.05
+Saverio Giallorenzo,Giuseppe De Palma,0.1
+Saverio Giallorenzo,Matteo Trentin,0.05
+Saverio Giallorenzo,Gianluigi Zavattaro,0.2
+Saverio Giallorenzo,Mario Bravetti,0.1
+Saverio Giallorenzo,Stefano Pio Zingaro,0.1
+Saverio Giallorenzo,Ivan Lanese,0.05
+Saverio Giallorenzo,Davide Sangiorgi,0.05
+Saverio Giallorenzo,Franco Callegati,0.05
+Saverio Giallorenzo,Manuel Mazzara,0.05
+"Tabanelli, Enrico","Tagliavini, Giuseppe",0.05
+"Tisbeni, Simone Rossi","Cesini, Daniele",0.05
+Francesco Sovrano,Monica Palmirani,0.1
+Francesco Sovrano,Fabio Vitali,0.1
+D'Angelo G.,Serena L.,0.25
+D'Angelo G.,Ferretti S.,0.6
+D'Angelo G.,Zichichi M.,0.1
+Padovani L.,Sangiorgi D.,0.05
+Vitali Fabio,Grillo Remo,0.1
+Vitali Fabio,Girardi Dino,0.05
+Vitali Fabio,Lengua Chantal,0.1
+Scarselli Eleonora Franchi,Perilli L.,0.1
+Scarselli Eleonora Franchi,Cinotti T. S.,0.1
+Valentina Anita Carriero,Fiorela Ciroku,0.05
+Valentina Anita Carriero,Delfina Sol Martinez Pandiani,0.05
+Valentina Anita Carriero,Andrea Poltronieri,0.05
+Valentina Anita Carriero,Valentina Presutti,0.05
+Gianmarco Ottavi,Francesco Conti,0.05
+Marzani A.,Sciullo L.,0.1
+Marzani A.,De Marchi L.,0.1
+Marzani A.,Cinotti T. S.,0.1
+Marzani A.,Testoni N.,0.05
+Carlo Mazzocca,Andrea Sabbioni,0.05
+Carlo Mazzocca,Rebecca Montanari,0.05
+Carlo Mazzocca,Michele Colajanni,0.05
+Gustavo Marfia,Silvia Garzarella,0.05
+Gustavo Marfia,Lorenzo Stacchio,0.1
+Gustavo Marfia,Daniela Calanca,0.05
+Gustavo Marfia,Alessia Angeli,0.05
+Gustavo Marfia,Giovanni Pau,0.05
+Gustavo Marfia,Marco Roccetti,0.05
+"Patella, Marco","Magnini, Andrea",0.05
+"Patella, Marco","Bujari, Armir",0.05
+"Patella, Marco","Shustikova, Iuliia",0.05
+"Patella, Marco","Persiano, Simone",0.05
+"Patella, Marco","Bitelli, Gabriele",0.05
+"Patella, Marco","Castellarin, Attilio",0.05
+"Patella, Marco","Boeri, Andrea",0.05
+"Patella, Marco","Bononi, Luciano",0.05
+"Patella, Marco","Brath, Armando",0.05
+"Patella, Marco","Corazza, Giovanni Emanuele",0.05
+"Patella, Marco","De Miranda, Stefano",0.05
+"Patella, Marco","Leoni, Giovanni",0.05
+"Patella, Marco","Longo, Danila",0.05
+"Patella, Marco","Napolitano, Fabio",0.05
+"Patella, Marco","Salmon Cinotti, Tullio",0.05
+"Patella, Marco","Vigo, Daniele",0.05
+"Patella, Marco","Ciaccia, Paolo",0.05
+"Faldella, Eugenio","Loreti, Daniela",0.05
+"Zanni, Alessandro","Al Jawarneh, Isam Mashhour",0.05
+Piero Zannini,Duccio Rocchini,0.05
+Piero Zannini,Roberto Cazzolla Gatti,0.05
+Piero Zannini,Alessandro Chiarucci,0.05
+Piero Zannini,Silvia Mirri,0.05
+"Shustikova, Iuliia","Magnini, Andrea",0.05
+"Shustikova, Iuliia","Bujari, Armir",0.05
+"Shustikova, Iuliia","Persiano, Simone",0.05
+"Shustikova, Iuliia","Bitelli, Gabriele",0.05
+"Shustikova, Iuliia","Castellarin, Attilio",0.05
+Gianluigi Zavattaro,Giuseppe De Palma,0.1
+Gianluigi Zavattaro,Matteo Trentin,0.05
+Gianluigi Zavattaro,Mario Bravetti,0.2
+Gianluigi Zavattaro,Stefano Pio Zingaro,0.05
+Alessandro Zanni,Paolo Bellavista,0.05
+Alessandro Zanni,Antonio Corradi,0.05
+Alessandro Zanni,Luca Foschini,0.05
+"Bartolini, Andrea","Borghesi, Andrea",0.5
+"Bartolini, Andrea","Di Santi, Carmine",0.05
+"Bartolini, Andrea","Guarrasi, Massimiliano",0.05
+"Bartolini, Andrea","Barchi, Francesco",0.05
+"Bartolini, Andrea","Kiziltan, Zeynep",0.1
+"Bartolini, Andrea","Netti, Alessio",0.05
+"Bartolini, Andrea","Sîrbu, Alina",0.05
+"Bedogni, Luca","Montori, Federico",0.55
+"Bedogni, Luca","Armandi, Vincenzo",0.05
+"Bedogni, Luca","Di Felice, Marco",0.4
+"Bedogni, Luca","Bononi, Luciano",0.6
+"Bedogni, Luca","Canegallo, Roberto",0.05
+"Bedogni, Luca","CARBONE, FABIO",0.05
+"Bedogni, Luca","Scarselli, Eleonora Franchi",0.05
+"Bedogni, Luca","Perilli, Luca",0.05
+"Bedogni, Luca","Cinotti, Tullio Salmon",0.05
+"Bedogni, Luca","D'Elia, Alfredo",0.05
+"Bedogni, Luca","Napolitano, Fabio",0.05
+"Bedogni, Luca","Salmon Cinotti, Tullio",0.05
+"Bedogni, Luca","Viola, Fabio",0.05
+Massimo Ballabeni,Fabrizio Apollonio,0.05
+Massimo Ballabeni,Silvia Bertacchi,0.05
+Massimo Ballabeni,"TORELLO, MARCO",0.05
+Massimo Ballabeni,Rebecca Montanari,0.05
+Andrea Sabbioni,Armir Bujari,0.1
+Andrea Sabbioni,Luca Foschini,0.05
+Andrea Sabbioni,Antonio Corradi,0.1
+Andrea Sabbioni,Rebecca Montanari,0.05
+Andrea Sabbioni,Michele Colajanni,0.05
+"Antonaros, Francesca","Baldo, Federico",0.05
+"Antonaros, Francesca","Ramacieri, Giuseppe",0.05
+"Ciampolini, Anna","Loreti, Daniela",0.2
+Sabbioni A.,Mazzocca C.,0.05
+Sabbioni A.,Bujari A.,0.2
+Sabbioni A.,Montanari R.,0.05
+Sabbioni A.,Patera L.,0.05
+Sabbioni A.,Calvio A.,0.1
+"MASCOLO, CECILIA","Musolesi, Mirco",0.05
+"Belvederi Murri, Martino","Cattelani, Luca",0.05
+"Belvederi Murri, Martino","Palumbo, Pierpaolo",0.05
+Campi A.,Callegati F.,0.05
+Campi A.,Contoli C.,0.05
+Campi A.,Di Santi S.,0.05
+Campi A.,Ghiselli N.,0.05
+Manuel Mazzara,Ivan Lanese,0.1
+Manuel Mazzara,Claudio Guidi,0.05
+Francesco Corsini,Stefano Gandolfi,0.05
+Francesco Corsini,Emanuele Mandanici,0.05
+Francesco Corsini,Fabiana Zama,0.05
+"Sîrbu, Alina","Netti, Alessio",0.05
+"Sîrbu, Alina","Kiziltan, Zeynep",0.15
+"Sîrbu, Alina","Borghesi, Andrea",0.1
+"Sîrbu, Alina","GALLEGUILLOS MICCONO, CRISTIAN ALEJANDRO",0.1
+"Sîrbu, Alina","NETTI, ALESSIO",0.05
+"Farooq, Emmen","Borghesi, Andrea",0.1
+Antonio Corradi,Armir Bujari,0.1
+Antonio Corradi,Luca Foschini,0.25
+Antonio Corradi,Paolo Bellavista,0.15
+Antonio Corradi,Walter Cerroni,0.05
+Antonio Corradi,Gianluca Davoli,0.05
+Antonio Corradi,Chiara Contoli,0.05
+Antonio Corradi,Franco Callegati,0.05
+Picone M.,Bellavista P.,0.05
+Picone M.,Mendula M.,0.05
+Mario Bravetti,Stefano Pio Zingaro,0.05
+"Al Sadi A.
+Investigation",Melis A.,0.05
+"Al Sadi A.
+Investigation",Prandini M.,0.05
+"Al Sadi A.
+Investigation",Callegati F.,0.05
+Quadrini M.,Bujari A.,0.05
+Cinotti T. S.,Sciullo L.,0.15
+Cinotti T. S.,De Marchi L.,0.15
+Cinotti T. S.,Bellavista P.,0.05
+Cinotti T. S.,Testoni N.,0.05
+Cinotti T. S.,Perilli L.,0.15
+"Netti, Alessio","Kiziltan, Zeynep",0.05
+"Netti, Alessio","Borghesi, Andrea",0.05
+Sakayori K.,Sangiorgi D.,0.05
+"Marzani, Alessandro","Zonzini, Federica",0.1
+"Marzani, Alessandro","Testoni, Nicola",0.1
+"Marzani, Alessandro","Montori, Federico",0.1
+"Marzani, Alessandro","Venanzi, Riccardo",0.05
+"Marzani, Alessandro","Bononi, Luciano",0.05
+"Marzani, Alessandro","Cinotti, Tullio Salmon",0.05
+"Marzani, Alessandro","Di Felice, Marco",0.1
+Andrea Zanellati,Anita Macauda,0.05
+Andrea Zanellati,Chiara Panciroli,0.1
+Andrea Zanellati,Stefano Pio Zingaro,0.15
+Andrea Zanellati,Olivia Levrini,0.05
+Emanuele Mandanici,Stefano Gandolfi,0.05
+Emanuele Mandanici,Fabiana Zama,0.05
+"Viola, Fabio","Bononi, Luciano",0.05
+"Viola, Fabio","D'Elia, Alfredo",0.05
+"Viola, Fabio","Di Felice, Marco",0.05
+"Viola, Fabio","Montori, Federico",0.05
+"Viola, Fabio","Napolitano, Fabio",0.05
+"Viola, Fabio","Salmon Cinotti, Tullio",0.05
+De Marchi L.,Sciullo L.,0.1
+De Marchi L.,Bellavista P.,0.05
+De Marchi L.,Testoni N.,0.05
+Alberto Cavalucci,Riccardo Venanzi,0.05
+Alberto Cavalucci,Luca Foschini,0.05
+Alberto Cavalucci,Paolo Bellavista,0.05
+"Romandini, Nicolò","Mazzocca, Carlo",0.2
+"Romandini, Nicolò","Montanari, Rebecca",0.25
+"Romandini, Nicolò","Mendula, Matteo",0.05
+"Vandi, Stefano","Pizza, Fabio",0.05
+"Vandi, Stefano","Plazzi, Giuseppe",0.05
+Bertani Samuele,Mirri Silvia,0.05
+Bertani Samuele,Prandi Catia,0.1
+Bertani Samuele,Gianfrate Valentina,0.05
+Bertani Samuele,Cattabriga Andrea,0.05
+Bertani Samuele,Savito Francesco,0.05
+"Leoni, Giovanni","Boeri, Andrea",0.05
+"Leoni, Giovanni","Bononi, Luciano",0.05
+"Leoni, Giovanni","Brath, Armando",0.05
+"Leoni, Giovanni","Corazza, Giovanni Emanuele",0.05
+"Leoni, Giovanni","De Miranda, Stefano",0.05
+"Leoni, Giovanni","Longo, Danila",0.05
+"Leoni, Giovanni","Napolitano, Fabio",0.05
+"Leoni, Giovanni","Salmon Cinotti, Tullio",0.05
+"Leoni, Giovanni","Vigo, Daniele",0.05
+Riccardo Venanzi,Luca Foschini,0.05
+Riccardo Venanzi,Paolo Bellavista,0.05
+Benassi Mariagrazia,Succi Angelica,0.05
+Benassi Mariagrazia,Giovagnoli Sara,0.05
+Benassi Mariagrazia,Prandi Catia,0.05
+Benassi Mariagrazia,Marotta Luigi,0.05
+Benassi Mariagrazia,Matilde Spinoso,0.05
+Badia L.,Bujari A.,0.05
+Ghiselli N.,Callegati F.,0.05
+Ghiselli N.,Contoli C.,0.05
+Ghiselli N.,Di Santi S.,0.05
+Ghiselli N.,Bellavista P.,0.1
+"Aguzzi, Cristiano","Montori, Federico",0.05
+"Aguzzi, Cristiano","Roffia, Luca",0.1
+"Aguzzi, Cristiano","Di Felice, Marco",0.05
+"Aguzzi, Cristiano","Antoniazzi, Francesco",0.05
+"Aguzzi, Cristiano","Bononi, Luciano",0.05
+"Aguzzi, Cristiano","Canegallo, Roberto",0.05
+"Aguzzi, Cristiano","D'Elia, Alfredo",0.05
+"Aguzzi, Cristiano","Perilli, Luca",0.05
+"Aguzzi, Cristiano","Cinotti, Tullio Salmon",0.05
+Colamonaco S.,Merizzi F.,0.05
+Colamonaco S.,Asperti A.,0.05
+Di Sabatino S.,Porcu F.,0.05
+Di Sabatino S.,Montesi D.,0.05
+Davide Evangelista,Fabiana Zama,0.05
+Lodi M.,Martini S.,0.15
+Lodi M.,Zingaro S. P.,0.05
+"Kiziltan, Zeynep","Cena, Carlo",0.05
+"Kiziltan, Zeynep","Borghesi, Andrea",0.1
+"Kiziltan, Zeynep","GALLEGUILLOS MICCONO, CRISTIAN ALEJANDRO",0.15
+"Kiziltan, Zeynep","NETTI, ALESSIO",0.1
+Claudia Scorolli,Angelo Di Iorio,0.05
+Fabiana Zama,Stefano Gandolfi,0.05
+Silvia Mirri,Duccio Rocchini,0.05
+Silvia Mirri,Roberto Cazzolla Gatti,0.05
+Silvia Mirri,Alessandro Chiarucci,0.05
+Silvia Mirri,Catia Prandi,0.15
+Silvia Mirri,Alice Tartarini,0.05
+Silvia Mirri,Sara Giovagnoli,0.05
+Silvia Mirri,Paola Salomoni,0.1
+Silvia Mirri,Giovanni Delnevo,0.1
+Silvia Mirri,Marco Roccetti,0.05
+Silvia Mirri,Franco Callegati,0.05
+Savito Francesco,Gianfrate Valentina,0.05
+Savito Francesco,Prandi Catia,0.05
+Savito Francesco,Cattabriga Andrea,0.05
+Al Jawarneh I. M.,Bellavista P.,0.05
+Al Jawarneh I. M.,Montanari R.,0.05
+"Tagliavini, Giuseppe","Mirsalari, Seyed Ahmad",0.1
+"Tagliavini, Giuseppe","Bruschi, Nazareno",0.15
+"Tagliavini, Giuseppe","Valente, Luca",0.05
+"Tagliavini, Giuseppe","Sinigaglia, Mattia",0.05
+"Tagliavini, Giuseppe","Capotondi, Alessandro",0.05
+"Tagliavini, Giuseppe","Amidei, Andrea",0.05
+"Tagliavini, Giuseppe","Rapa, Pierangelo Maria",0.05
+"Tagliavini, Giuseppe","Marongiu, Andrea",0.25
+"Tagliavini, Giuseppe","Borghesi, Andrea",0.05
+"Tagliavini, Giuseppe","Prasad, Rohit",0.05
+"Tagliavini, Giuseppe","Das, Satyajit",0.05
+"Tagliavini, Giuseppe","FLAMAND, ERIC",0.05
+"Roffia, Luca","Montori, Federico",0.05
+"Roffia, Luca","Di Felice, Marco",0.05
+"Roffia, Luca","Chiari, Lorenzo",0.05
+"Roffia, Luca","Tacconi, Carlo",0.05
+"Roffia, Luca","Cinotti, Tullio Salmon",0.15
+"Roffia, Luca","Antoniazzi, Francesco",0.15
+"Roffia, Luca","Costanzo, Alessandra",0.1
+"Roffia, Luca","Loreti, Daniela",0.1
+"Roffia, Luca","Bononi, Luciano",0.05
+"Roffia, Luca","Canegallo, Roberto",0.05
+"Roffia, Luca","D'Elia, Alfredo",0.05
+"Roffia, Luca","Perilli, Luca",0.05
+Marco Roccetti,Simone Branchetti,0.05
+Marco Roccetti,Giovanni Delnevo,0.15
+Marco Roccetti,Valentina Orru',0.05
+Callegati F.,Rinieri L.,0.15
+Callegati F.,Melis A.,0.4
+Callegati F.,Prandini M.,0.35
+Callegati F.,Al Sadi A.,0.2
+Callegati F.,Cerroni W.,0.15
+Callegati F.,Contoli C.,0.1
+Callegati F.,Di Santi S.,0.05
+Callegati F.,Prandini M.Validation,0.05
+AL JAWARNEH ISAM MASHHOUR HASAN,Bellavista P.,0.15
+AL JAWARNEH ISAM MASHHOUR HASAN,Montanari R.,0.15
+Marchesini G.,Montesi D.,0.05
+Porcu F.,Montesi D.,0.05
+Riccardo Fini,Paolo Ciancarini,0.05
+Riccardo Fini,Angelo Di Iorio,0.05
+Fiorela Ciroku,Delfina Sol Martinez Pandiani,0.05
+Fiorela Ciroku,Andrea Poltronieri,0.05
+Fiorela Ciroku,Valentina Presutti,0.05
+Andrea Pascucci,Stefano Gandolfi,0.05
+Andrea Pascucci,"CASCARANO, PASQUALE",0.05
+Francesco Ubertini,Enrico Sangiorgi,0.05
+Francesco Ubertini,Paola Salomoni,0.05
+Francesco Ubertini,Elena Luppi,0.05
+"Zonzini, Federica","Testoni, Nicola",0.1
+"Zonzini, Federica","Montori, Federico",0.05
+"Zonzini, Federica","Venanzi, Riccardo",0.05
+"Zonzini, Federica","Bononi, Luciano",0.05
+"Zonzini, Federica","Cinotti, Tullio Salmon",0.05
+Paolo Bellavista,Luca Foschini,0.35
+Paolo Bellavista,Rebecca Montanari,0.1
+"CASCARANO, PASQUALE",Stefano Gandolfi,0.05
+"Marfoglia, Alberto","Arcobelli, Valerio Antonio",0.05
+"Marfoglia, Alberto","Moscato, Serena",0.05
+"Marfoglia, Alberto","Palumbo, Pierpaolo",0.05
+"Marfoglia, Alberto","Nardini, Filippo",0.05
+"Marfoglia, Alberto","Davalli, Angelo",0.05
+"Marfoglia, Alberto","Chiari, Lorenzo",0.05
+"Rapa, Pierangelo Maria","Amidei, Andrea",0.05
+Amir Al Sadi,Franco Callegati,0.1
+"Ballerini, Francesco","Giuliani, Luca",0.05
+"Ballerini, Francesco","Borghesi, Andrea",0.05
+Claudio rossi,Giovanni Pau,0.05
+Giuseppe De Palma,Matteo Trentin,0.05
+"Montori, Federico","Bononi, Luciano",0.55
+"Montori, Federico","Di Felice, Marco",0.6
+"Montori, Federico","Venanzi, Riccardo",0.05
+"Montori, Federico","Testoni, Nicola",0.05
+"Montori, Federico","Cinotti, Tullio Salmon",0.1
+"Montori, Federico","Armandi, Vincenzo",0.05
+"Montori, Federico","Canegallo, Roberto",0.05
+"Montori, Federico","CARBONE, FABIO",0.05
+"Montori, Federico","Scarselli, Eleonora Franchi",0.05
+"Montori, Federico","Perilli, Luca",0.05
+"Montori, Federico","D'Elia, Alfredo",0.05
+"Montori, Federico","Napolitano, Fabio",0.05
+"Montori, Federico","Salmon Cinotti, Tullio",0.05
+Asperti A.,Merizzi F.,0.05
+Chiara Panciroli,Anita Macauda,0.05
+Chiara Panciroli,Stefano Pio Zingaro,0.05
+Chiara Panciroli,Olivia Levrini,0.05
+"Davalli, Angelo","Arcobelli, Valerio Antonio",0.05
+"Davalli, Angelo","Moscato, Serena",0.05
+"Davalli, Angelo","Palumbo, Pierpaolo",0.05
+"Davalli, Angelo","Nardini, Filippo",0.05
+"Davalli, Angelo","Chiari, Lorenzo",0.05
+"Venanzi, Riccardo","Bujari, Armir",0.05
+"Venanzi, Riccardo","Sabbioni, Andrea",0.05
+"Venanzi, Riccardo","Testoni, Nicola",0.05
+"Venanzi, Riccardo","Bononi, Luciano",0.05
+"Venanzi, Riccardo","Cinotti, Tullio Salmon",0.05
+"Venanzi, Riccardo","Campioni, Lorenzo",0.05
+"Venanzi, Riccardo","Cavalucci, Alberto",0.05
+"Venanzi, Riccardo","Tazzioli, Davide",0.05
+"Venanzi, Riccardo","Capponi, Andrea",0.05
+Gianluca Davoli,Walter Cerroni,0.05
+Gianluca Davoli,Luca Foschini,0.05
+Gianluca Davoli,Chiara Contoli,0.05
+Gianluca Davoli,Franco Callegati,0.05
+Matilde Spinoso,Sara Giovagnoli,0.05
+Matilde Spinoso,Catia Prandi,0.05
+Matilde Spinoso,Succi Angelica,0.05
+Matilde Spinoso,Giovagnoli Sara,0.05
+Matilde Spinoso,Prandi Catia,0.05
+Matilde Spinoso,Marotta Luigi,0.05
+Luca Foschini,Armir Bujari,0.1
+Luca Foschini,Rebecca Montanari,0.1
+Luca Foschini,Walter Cerroni,0.05
+Luca Foschini,Chiara Contoli,0.05
+Luca Foschini,Franco Callegati,0.05
+"Garbugli, Andrea","Sabbioni, Andrea",0.05
+"Garbugli, Andrea","Bujari, Armir",0.05
+"IACHINI, VALERIO","Borghesi, Andrea",0.05
+Nicolas Lazzari,Andrea Poltronieri,0.1
+Nicolas Lazzari,Valentina Presutti,0.1
+"Barchi, Francesco","Borghesi, Andrea",0.05
+"Barchi, Francesco","Di Santi, Carmine",0.05
+"Barchi, Francesco","Guarrasi, Massimiliano",0.05
+"Bertacchi, Gianna","Bertacchi, Silvia",0.05
+"Bertacchi, Gianna","Al Jawarneh, Isam Mashhour",0.05
+"Bertacchi, Gianna","Montanari, Rebecca",0.05
+Mendula M.,Bellavista P.,0.05
+"Costanzo, Alessandra","Chiari, Lorenzo",0.05
+"Costanzo, Alessandra","Tacconi, Carlo",0.05
+"Costanzo, Alessandra","Cinotti, Tullio Salmon",0.1
+"Costanzo, Alessandra","Antoniazzi, Francesco",0.1
+"Costanzo, Alessandra","Loreti, Daniela",0.1
+"Bononi, Luciano","Di Felice, Marco",0.75
+"Bononi, Luciano","Testoni, Nicola",0.05
+"Bononi, Luciano","Cinotti, Tullio Salmon",0.15
+"Bononi, Luciano","Boeri, Andrea",0.05
+"Bononi, Luciano","Brath, Armando",0.05
+"Bononi, Luciano","Corazza, Giovanni Emanuele",0.05
+"Bononi, Luciano","De Miranda, Stefano",0.05
+"Bononi, Luciano","Longo, Danila",0.05
+"Bononi, Luciano","Napolitano, Fabio",0.1
+"Bononi, Luciano","Salmon Cinotti, Tullio",0.1
+"Bononi, Luciano","Vigo, Daniele",0.05
+"Bononi, Luciano","Canegallo, Roberto",0.1
+"Bononi, Luciano","CARBONE, FABIO",0.05
+"Bononi, Luciano","Scarselli, Eleonora Franchi",0.05
+"Bononi, Luciano","Perilli, Luca",0.1
+"Bononi, Luciano","Antoniazzi, Francesco",0.05
+"Bononi, Luciano","D'Elia, Alfredo",0.1
+Paolo Ciancarini,Luigi Asprino,0.05
+Paolo Ciancarini,Andrea Giovanni Nuzzolese,0.05
+Paolo Ciancarini,Valentina Presutti,0.05
+Paolo Ciancarini,Giancarlo Succi,0.05
+Paolo Ciancarini,Angelo Di Iorio,0.05
+"Bertacchi, Silvia","Al Jawarneh, Isam Mashhour",0.05
+"Bertacchi, Silvia","Montanari, Rebecca",0.05
+Montanari R.,Mazzocca C.,0.2
+Montanari R.,Colajanni M.,0.05
+Montanari R.,Bellavista P.,0.6
+Montanari R.,Bujari A.,0.05
+Montanari R.,Mignardi V.,0.05
+Montanari R.,Isam M. Al Jawarneh,0.05
+"Pizza, Fabio","Plazzi, Giuseppe",0.05
+Sacerdoti Coen C.,Lanese I.,0.1
+Sacerdoti Coen C.,Mezzina C. A.,0.05
+Sacerdoti Coen C.,Lami P.,0.05
+Sacerdoti Coen C.,Condoluci A.,0.1
+"TORELLO, MARCO",Fabrizio Apollonio,0.05
+"TORELLO, MARCO",Silvia Bertacchi,0.05
+"TORELLO, MARCO",Rebecca Montanari,0.05
+"Guarrasi, Massimiliano","Borghesi, Andrea",0.05
+"Guarrasi, Massimiliano","Di Santi, Carmine",0.05
+"Valente, Luca","Sinigaglia, Mattia",0.05
+"Valente, Luca","Capotondi, Alessandro",0.05
+Heideker A.,Ivan Dimitry Ribeiro Zyrianoff,0.1
+Mora A.,Bellavista P.,0.05
+Rebecca Montanari,Michele Colajanni,0.05
+Rebecca Montanari,Fabrizio Apollonio,0.05
+Rebecca Montanari,Silvia Bertacchi,0.05
+Al Sadi A.,Rinieri L.,0.15
+Al Sadi A.,Melis A.,0.3
+Al Sadi A.,Prandini M.,0.2
+"Verdone, Roberto","Amorosa, Lorenzo Mario",0.05
+Valentina Presutti,Andrea Poltronieri,0.2
+Valentina Presutti,Luigi Asprino,0.05
+Valentina Presutti,Andrea Giovanni Nuzzolese,0.05
+Valentina Presutti,Delfina Sol Martinez Pandiani,0.05
+Roberto Amadini,Jacopo Mauro,0.05
+Fabio Vitali,Valentina Pasqual,0.15
+Fabio Vitali,Monica Palmirani,0.1
+Fabio Vitali,Francesca Mambelli,0.05
+Bacchiani L.,Bravetti M.,0.2
+Bacchiani L.,Sciullo L.,0.05
+"Persiano, Simone","Magnini, Andrea",0.05
+"Persiano, Simone","Bujari, Armir",0.05
+"Persiano, Simone","Bitelli, Gabriele",0.05
+"Persiano, Simone","Castellarin, Attilio",0.05
+"Cattelani, Luca","Palumbo, Pierpaolo",0.1
+"Cattelani, Luca","Chiari, Lorenzo",0.05
+Gianfrate Valentina,Prandi Catia,0.05
+Gianfrate Valentina,Cattabriga Andrea,0.05
+Mauro Marini,Mariana Machado Toffolo,0.05
+Mauro Marini,Catia Prandi,0.05
+Mauro Marini,Stefano Goffredo,0.05
+Sara Giovagnoli,Catia Prandi,0.15
+Sara Giovagnoli,Alice Tartarini,0.05
+Andrea Giovanni Nuzzolese,Luigi Asprino,0.05
+Zichichi M.,Ferretti S.,0.4
+Zichichi M.,Pocher N.,0.1
+Zichichi M.,Merizzi F.,0.05
+Zichichi M.,Serena L.,0.05
+Roberto Cazzolla Gatti,Duccio Rocchini,0.05
+Roberto Cazzolla Gatti,Alessandro Chiarucci,0.05
+"Boeri, Andrea","Brath, Armando",0.05
+"Boeri, Andrea","Corazza, Giovanni Emanuele",0.05
+"Boeri, Andrea","De Miranda, Stefano",0.05
+"Boeri, Andrea","Longo, Danila",0.05
+"Boeri, Andrea","Napolitano, Fabio",0.05
+"Boeri, Andrea","Salmon Cinotti, Tullio",0.05
+"Boeri, Andrea","Vigo, Daniele",0.05
+Giovanni Delnevo,Valentina Orru',0.05
+Giovanni Delnevo,Franco Callegati,0.05
+Giovanni Delnevo,Paola Salomoni,0.05
+Michele Colajanni,Mirco Marchetti,0.25
+"De Miranda, Stefano","Brath, Armando",0.05
+"De Miranda, Stefano","Corazza, Giovanni Emanuele",0.05
+"De Miranda, Stefano","Longo, Danila",0.05
+"De Miranda, Stefano","Napolitano, Fabio",0.05
+"De Miranda, Stefano","Salmon Cinotti, Tullio",0.05
+"De Miranda, Stefano","Vigo, Daniele",0.05
+"Al Jawarneh, Isam Mashhour","Montanari, Rebecca",0.2
+Silvia Garzarella,Lorenzo Stacchio,0.05
+Mazzocca C.,Colajanni M.,0.05
+Mazzocca C.,Bujari A.,0.1
+Mazzocca C.,Mele V.,0.05
+"Tazzioli, Davide","Capponi, Andrea",0.05
+Ferretti S.,Furini M.,0.1
+Ferretti S.,Pocher N.,0.1
+Ferretti S.,Merizzi F.,0.05
+Ferretti S.,Serena L.,0.25
+Cattabriga Andrea,Prandi Catia,0.05
+Testoni N.,Sciullo L.,0.05
+Rouhi R.,Montesi D.,0.05
+"Musolesi, Mirco","Staffolani, Alessandro",0.1
+"Silvestri, Mattia","Baldo, Federico",0.05
+"Bosi, Filippo","Montanari, Rebecca",0.05
+"Bosi, Filippo","Patera, Lorenzo",0.05
+Bocchi L.,Lanese I.,0.05
+Bocchi L.,Mezzina C. A.,0.05
+Contoli C.,Di Santi S.,0.05
+Succi Angelica,Giovagnoli Sara,0.05
+Succi Angelica,Prandi Catia,0.05
+Succi Angelica,Marotta Luigi,0.05
+"Di Santi, Carmine","Borghesi, Andrea",0.05
+Alessia Angeli,Daniela Calanca,0.05
+Alessia Angeli,Lorenzo Stacchio,0.05
+"Moscato, Serena","Arcobelli, Valerio Antonio",0.05
+"Moscato, Serena","Palumbo, Pierpaolo",0.05
+"Moscato, Serena","Nardini, Filippo",0.05
+"Moscato, Serena","Chiari, Lorenzo",0.05
+"Magnini, Andrea","Bujari, Armir",0.05
+"Magnini, Andrea","Bitelli, Gabriele",0.05
+"Magnini, Andrea","Castellarin, Attilio",0.05
+"Prasad, Rohit","Das, Satyajit",0.05
+"Vigo, Daniele","Brath, Armando",0.05
+"Vigo, Daniele","Corazza, Giovanni Emanuele",0.05
+"Vigo, Daniele","Longo, Danila",0.05
+"Vigo, Daniele","Napolitano, Fabio",0.05
+"Vigo, Daniele","Salmon Cinotti, Tullio",0.05
+"Mora, Alessio","Bujari, Armir",0.05
+"Campioni, Lorenzo","Cavalucci, Alberto",0.05
+Stefano Goffredo,Mariana Machado Toffolo,0.05
+Stefano Goffredo,Catia Prandi,0.05
+"Perilli, Luca","Canegallo, Roberto",0.1
+"Perilli, Luca","CARBONE, FABIO",0.05
+"Perilli, Luca","Di Felice, Marco",0.05
+"Perilli, Luca","Scarselli, Eleonora Franchi",0.05
+"Perilli, Luca","Cinotti, Tullio Salmon",0.1
+"Perilli, Luca","Antoniazzi, Francesco",0.05
+"Perilli, Luca","D'Elia, Alfredo",0.05
+"Tacconi, Carlo","Chiari, Lorenzo",0.05
+"Tacconi, Carlo","Cinotti, Tullio Salmon",0.05
+"Tacconi, Carlo","Antoniazzi, Francesco",0.05
+"Tacconi, Carlo","Loreti, Daniela",0.05
+Lanese I.,Mezzina C. A.,0.2
+Lanese I.,Lami P.,0.05
+Lanese I.,Zingaro S. P.,0.05
+Lanese I.,Sangiorgi D.,0.05
+Ivan Lanese,Davide Sangiorgi,0.05
+Ivan Lanese,Stefano Pio Zingaro,0.05
+Ivan Lanese,Claudio Guidi,0.05
+Prandi Catia,Mirri Silvia,0.05
+Prandi Catia,Giovagnoli Sara,0.05
+Prandi Catia,Marotta Luigi,0.05
+"Mazzocca, Carlo","Montanari, Rebecca",0.2
+"Mazzocca, Carlo","Mendula, Matteo",0.05
+"Capotondi, Alessandro","Sinigaglia, Mattia",0.05
+"Brath, Armando","Corazza, Giovanni Emanuele",0.05
+"Brath, Armando","Longo, Danila",0.05
+"Brath, Armando","Napolitano, Fabio",0.05
+"Brath, Armando","Salmon Cinotti, Tullio",0.05
+Delfina Sol Martinez Pandiani,Andrea Poltronieri,0.05
+Melis A.,Rinieri L.,0.2
+Melis A.,Prandini M.,0.35
+Melis A.,Prandini M.Validation,0.05
+Sciullo L.,Bravetti M.,0.05
+Sciullo L.,Ivan Dimitry Ribeiro Zyrianoff,0.05
+"Grundler, Giulia","Loreti, Daniela",0.1
+"Grundler, Giulia","Montali, Marco",0.05
+Stefano Pio Zingaro,Olivia Levrini,0.05
+Stefano Pio Zingaro,Davide Sangiorgi,0.05
+Fabrizio Apollonio,Silvia Bertacchi,0.05
+"Montali, Marco","Loreti, Daniela",0.05
+Sangiorgi D.,Prebet E.,0.05
+Sangiorgi D.,Tian C.,0.05
+Marchetti M.,Colajanni M.,0.35
+"Nardini, Filippo","Arcobelli, Valerio Antonio",0.05
+"Nardini, Filippo","Palumbo, Pierpaolo",0.05
+"Nardini, Filippo","Chiari, Lorenzo",0.05
+Barbara Neri,Elena Luppi,0.05
+Barbara Neri,Enrico Sangiorgi,0.05
+Barbara Neri,Paola Salomoni,0.05
+"Napolitano, Fabio","Corazza, Giovanni Emanuele",0.05
+"Napolitano, Fabio","Longo, Danila",0.05
+"Napolitano, Fabio","Salmon Cinotti, Tullio",0.1
+"Napolitano, Fabio","D'Elia, Alfredo",0.05
+"Napolitano, Fabio","Di Felice, Marco",0.05
+Elena Luppi,Enrico Sangiorgi,0.1
+Elena Luppi,Paola Salomoni,0.1
+Walter Cerroni,Franco Callegati,0.15
+Walter Cerroni,Chiara Contoli,0.1
+Walter Cerroni,Chiara Buratti,0.05
+"Patera, Lorenzo","Montanari, Rebecca",0.05
+Andrea Piroddi,R. Girau,0.05
+"Ramacieri, Giuseppe","Baldo, Federico",0.05
+"Montanari, Rebecca","Jawarneh, Isam Mashhour Al",0.1
+"Montanari, Rebecca","Mendula, Matteo",0.05
+"Montanari, Rebecca","CILLONI, MARCO",0.05
+"Baldo, Federico","Borghesi, Andrea",0.05
+"Loreti, Daniela","Chiari, Lorenzo",0.05
+"Loreti, Daniela","Cinotti, Tullio Salmon",0.1
+"Loreti, Daniela","Antoniazzi, Francesco",0.1
+"Bujari, Armir","Sabbioni, Andrea",0.2
+"Bujari, Armir","Bitelli, Gabriele",0.05
+"Bujari, Armir","Castellarin, Attilio",0.05
+"Bujari, Armir","Rosa, Lorenzo",0.05
+Daniela Calanca,Lorenzo Stacchio,0.05
+Ivan Dimitry Ribeiro Zyrianoff,Roffia L.,0.05
+Bujari A.,Feraudo A.,0.05
+Bujari A.,Calvio A.,0.25
+Bujari A.,Bellavista P.,0.15
+Bujari A.,Garbugli A.,0.15
+Bujari A.,Patera L.,0.1
+Bujari A.,Mele V.,0.05
+Bujari A.,Marfia G.,0.05
+Colajanni M.,Stabili D.,0.05
+"Salmon Cinotti, Tullio","Corazza, Giovanni Emanuele",0.05
+"Salmon Cinotti, Tullio","Longo, Danila",0.05
+"Salmon Cinotti, Tullio","D'Elia, Alfredo",0.05
+"Salmon Cinotti, Tullio","Di Felice, Marco",0.05
+"Corazza, Giovanni Emanuele","Longo, Danila",0.05
+Marotta Luigi,Giovagnoli Sara,0.05
+Claudio Guidi,Franco Callegati,0.05
+Martini S.,Zingaro S. P.,0.05
+Garbugli A.,Patera L.,0.1
+Garbugli A.,Bellavista P.,0.2
+Garbugli A.,Calvio A.,0.05
+Rinieri L.,Prandini M.,0.15
+Stacchio L.,Longo D.,0.05
+Stacchio L.,Massari M.,0.05
+Stacchio L.,Marfia G.,0.2
+Stacchio L.,Angeli A.,0.1
+Stacchio L.,Hajahmadi S.,0.05
+"Scarselli, Eleonora Franchi","Canegallo, Roberto",0.05
+"Scarselli, Eleonora Franchi","CARBONE, FABIO",0.05
+"Scarselli, Eleonora Franchi","Di Felice, Marco",0.05
+"Scarselli, Eleonora Franchi","Cinotti, Tullio Salmon",0.05
+Marfia G.,Longo D.,0.05
+Marfia G.,Massari M.,0.05
+Marfia G.,Hajahmadi S.,0.1
+Marfia G.,Angeli A.,0.1
+"Rosa, Lorenzo","Sabbioni, Andrea",0.05
+Musolesi M.,Bellavista P.,0.05
+Bellavista P.,Feraudo A.,0.2
+Bellavista P.,Calvio A.,0.15
+Bellavista P.,Patera L.,0.1
+Bellavista P.,Isam M. Al Jawarneh,0.05
+Bellavista P.,Padalino Montenero D. D.,0.05
+Bellavista P.,Acquaviva L.,0.05
+Bellavista P.,Vecchi S.,0.05
+Paola Salomoni,Enrico Sangiorgi,0.1
+Paola Salomoni,Catia Prandi,0.05
+Paola Salomoni,Franco Callegati,0.05
+Pocher N.,Merizzi F.,0.05
+"Di Felice, Marco","Canegallo, Roberto",0.05
+"Di Felice, Marco","CARBONE, FABIO",0.05
+"Di Felice, Marco","Cinotti, Tullio Salmon",0.05
+"Di Felice, Marco","D'Elia, Alfredo",0.05
+FRANCO CALLEGATI,MARCO PRANDINI,0.05
+Mariana Machado Toffolo,Catia Prandi,0.05
+"Testoni, Nicola","Cinotti, Tullio Salmon",0.05
+Alice Tartarini,Catia Prandi,0.05
+"NETTI, ALESSIO","GALLEGUILLOS MICCONO, CRISTIAN ALEJANDRO",0.1
+"Arcobelli, Valerio Antonio","Palumbo, Pierpaolo",0.05
+"Arcobelli, Valerio Antonio","Chiari, Lorenzo",0.05
+"GALLEGUILLOS MICCONO, CRISTIAN ALEJANDRO","Borghesi, Andrea",0.05
+Massari M.,Longo D.,0.05
+Franco Callegati,Andrea Giovine,0.05
+Franco Callegati,Chiara Contoli,0.1
+Franco Callegati,Chiara Buratti,0.05
+"Borghesi, Andrea","Giuliani, Luca",0.1
+"Palumbo, Pierpaolo","Chiari, Lorenzo",0.1
+"D'Elia, Alfredo","Antoniazzi, Francesco",0.05
+"D'Elia, Alfredo","Canegallo, Roberto",0.05
+"D'Elia, Alfredo","Cinotti, Tullio Salmon",0.05
+"Castellarin, Attilio","Bitelli, Gabriele",0.05
+"Canegallo, Roberto","CARBONE, FABIO",0.05
+"Canegallo, Roberto","Cinotti, Tullio Salmon",0.1
+"Canegallo, Roberto","Antoniazzi, Francesco",0.05
+Alessandro Chiarucci,Duccio Rocchini,0.05
+"Antoniazzi, Francesco","Chiari, Lorenzo",0.05
+"Antoniazzi, Francesco","Cinotti, Tullio Salmon",0.15
+Feraudo A.,Calvio A.,0.1
+"Cinotti, Tullio Salmon","Chiari, Lorenzo",0.05
+"Cinotti, Tullio Salmon","CARBONE, FABIO",0.05

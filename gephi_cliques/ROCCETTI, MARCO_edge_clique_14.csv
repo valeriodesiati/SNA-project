@@ -1,11 +1,7 @@
 Source,Target,Attributes
-"MARCHETTI, LUCA","SALOMONI, PAOLA",{'weight': 0.05}
-"MARCHETTI, LUCA","PRANDI, CATIA",{'weight': 0.05}
-"MARCHETTI, LUCA","ROCCETTI, MARCO",{'weight': 0.05}
-"MARCHETTI, LUCA","MARFIA, GUSTAVO",{'weight': 0.05}
-"MARFIA, GUSTAVO","ROCCETTI, MARCO",{'weight': 3.7}
-"MARFIA, GUSTAVO","SALOMONI, PAOLA",{'weight': 0.25}
-"MARFIA, GUSTAVO","PRANDI, CATIA",{'weight': 0.15}
-"SALOMONI, PAOLA","PRANDI, CATIA",{'weight': 1.8}
-"SALOMONI, PAOLA","ROCCETTI, MARCO",{'weight': 2.55}
-"ROCCETTI, MARCO","PRANDI, CATIA",{'weight': 0.5}
+"CORRADI, ANTONIO","BOARI, MAURELIO",{'weight': 0.1}
+"CORRADI, ANTONIO","ROCCETTI, MARCO",{'weight': 0.1}
+"CORRADI, ANTONIO",M. Colajanni,{'weight': 0.05}
+"BOARI, MAURELIO","ROCCETTI, MARCO",{'weight': 0.1}
+"BOARI, MAURELIO",M. Colajanni,{'weight': 0.05}
+"ROCCETTI, MARCO",M. Colajanni,{'weight': 0.05}

@@ -1,7 +1,7 @@
 Source,Target,Attributes
+Gianluigi Zavattaro,Giuseppe De Palma,{'weight': 0.1}
 Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
-Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
-Gianluigi Zavattaro,Iacopo Talevi,{'weight': 0.05}
-Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}
-Mario Bravetti,Iacopo Talevi,{'weight': 0.05}
-Iacopo Talevi,Saverio Giallorenzo,{'weight': 0.05}
+Gianluigi Zavattaro,Matteo Trentin,{'weight': 0.05}
+Matteo Trentin,Giuseppe De Palma,{'weight': 0.05}
+Matteo Trentin,Saverio Giallorenzo,{'weight': 0.05}
+Giuseppe De Palma,Saverio Giallorenzo,{'weight': 0.1}

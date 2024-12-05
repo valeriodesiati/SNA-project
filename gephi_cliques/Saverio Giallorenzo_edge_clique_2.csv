@@ -1,16 +1,11 @@
 Source,Target,Attributes
-Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
-Gianluigi Zavattaro,Lorenzo Bacchiani,{'weight': 0.05}
-Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
-Gianluigi Zavattaro,Maurizio Gabbrielli,{'weight': 0.05}
-Gianluigi Zavattaro,Stefano Pio Zingaro,{'weight': 0.05}
-Mario Bravetti,Lorenzo Bacchiani,{'weight': 0.05}
-Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}
-Mario Bravetti,Maurizio Gabbrielli,{'weight': 0.05}
-Mario Bravetti,Stefano Pio Zingaro,{'weight': 0.05}
-Lorenzo Bacchiani,Saverio Giallorenzo,{'weight': 0.05}
-Lorenzo Bacchiani,Maurizio Gabbrielli,{'weight': 0.05}
-Lorenzo Bacchiani,Stefano Pio Zingaro,{'weight': 0.05}
-Maurizio Gabbrielli,Stefano Pio Zingaro,{'weight': 0.25}
+Franco Callegati,Andrea Melis,{'weight': 0.3}
+Franco Callegati,Marco Prandini,{'weight': 0.3}
+Franco Callegati,Maurizio Gabbrielli,{'weight': 0.1}
+Franco Callegati,Saverio Giallorenzo,{'weight': 0.05}
 Maurizio Gabbrielli,Saverio Giallorenzo,{'weight': 0.1}
-Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
+Maurizio Gabbrielli,Andrea Melis,{'weight': 0.05}
+Maurizio Gabbrielli,Marco Prandini,{'weight': 0.05}
+Andrea Melis,Marco Prandini,{'weight': 0.35}
+Andrea Melis,Saverio Giallorenzo,{'weight': 0.15}
+Marco Prandini,Saverio Giallorenzo,{'weight': 0.1}

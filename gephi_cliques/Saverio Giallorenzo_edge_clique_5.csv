@@ -1,7 +1,7 @@
 Source,Target,Attributes
-Nicola Dragoni,Ivan Lanese,{'weight': 0.05}
-Nicola Dragoni,Manuel Mazzara,{'weight': 0.1}
-Nicola Dragoni,Saverio Giallorenzo,{'weight': 0.05}
-Ivan Lanese,Saverio Giallorenzo,{'weight': 0.05}
-Ivan Lanese,Manuel Mazzara,{'weight': 0.1}
-Saverio Giallorenzo,Manuel Mazzara,{'weight': 0.05}
+Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
+Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
+Gianluigi Zavattaro,Iacopo Talevi,{'weight': 0.05}
+Iacopo Talevi,Mario Bravetti,{'weight': 0.05}
+Iacopo Talevi,Saverio Giallorenzo,{'weight': 0.05}
+Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}

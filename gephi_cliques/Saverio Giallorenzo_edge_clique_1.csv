@@ -1,7 +1,11 @@
 Source,Target,Attributes
-Gianluigi Zavattaro,Giuseppe De Palma,{'weight': 0.1}
-Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
-Gianluigi Zavattaro,Matteo Trentin,{'weight': 0.05}
-Giuseppe De Palma,Saverio Giallorenzo,{'weight': 0.1}
-Giuseppe De Palma,Matteo Trentin,{'weight': 0.05}
-Matteo Trentin,Saverio Giallorenzo,{'weight': 0.05}
+Franco Callegati,Davide Berardi,{'weight': 0.2}
+Franco Callegati,Andrea Melis,{'weight': 0.3}
+Franco Callegati,Marco Prandini,{'weight': 0.3}
+Franco Callegati,Saverio Giallorenzo,{'weight': 0.05}
+Andrea Melis,Davide Berardi,{'weight': 0.35}
+Andrea Melis,Marco Prandini,{'weight': 0.35}
+Andrea Melis,Saverio Giallorenzo,{'weight': 0.15}
+Davide Berardi,Marco Prandini,{'weight': 0.25}
+Davide Berardi,Saverio Giallorenzo,{'weight': 0.1}
+Marco Prandini,Saverio Giallorenzo,{'weight': 0.1}

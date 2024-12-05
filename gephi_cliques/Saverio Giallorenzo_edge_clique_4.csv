@@ -1,7 +1,16 @@
 Source,Target,Attributes
-Davide Sangiorgi,Saverio Giallorenzo,{'weight': 0.05}
-Davide Sangiorgi,Ivan Lanese,{'weight': 0.05}
-Davide Sangiorgi,Stefano Pio Zingaro,{'weight': 0.05}
+Stefano Pio Zingaro,Maurizio Gabbrielli,{'weight': 0.25}
+Stefano Pio Zingaro,Lorenzo Bacchiani,{'weight': 0.05}
+Stefano Pio Zingaro,Mario Bravetti,{'weight': 0.05}
 Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
-Stefano Pio Zingaro,Ivan Lanese,{'weight': 0.05}
-Ivan Lanese,Saverio Giallorenzo,{'weight': 0.05}
+Stefano Pio Zingaro,Gianluigi Zavattaro,{'weight': 0.05}
+Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
+Gianluigi Zavattaro,Lorenzo Bacchiani,{'weight': 0.05}
+Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
+Gianluigi Zavattaro,Maurizio Gabbrielli,{'weight': 0.05}
+Lorenzo Bacchiani,Mario Bravetti,{'weight': 0.05}
+Lorenzo Bacchiani,Saverio Giallorenzo,{'weight': 0.05}
+Lorenzo Bacchiani,Maurizio Gabbrielli,{'weight': 0.05}
+Maurizio Gabbrielli,Mario Bravetti,{'weight': 0.05}
+Maurizio Gabbrielli,Saverio Giallorenzo,{'weight': 0.1}
+Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}

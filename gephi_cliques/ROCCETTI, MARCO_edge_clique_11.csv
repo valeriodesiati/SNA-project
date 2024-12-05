@@ -1,11 +1,7 @@
 Source,Target,Attributes
-"SALOMONI, PAOLA","FERRETTI, STEFANO",{'weight': 1.3}
-"SALOMONI, PAOLA","ROCCETTI, MARCO",{'weight': 2.55}
-"SALOMONI, PAOLA","GHINI, VITTORIO",{'weight': 0.25}
-"SALOMONI, PAOLA",G. Pau,{'weight': 0.15}
-G. Pau,"ROCCETTI, MARCO",{'weight': 1.05}
-G. Pau,"FERRETTI, STEFANO",{'weight': 0.45}
-G. Pau,"GHINI, VITTORIO",{'weight': 0.1}
-"ROCCETTI, MARCO","FERRETTI, STEFANO",{'weight': 2.95}
-"ROCCETTI, MARCO","GHINI, VITTORIO",{'weight': 0.25}
-"FERRETTI, STEFANO","GHINI, VITTORIO",{'weight': 1.2}
+"PALAZZI, CLAUDIO ENRICO","ROCCETTI, MARCO",{'weight': 0.4}
+"PALAZZI, CLAUDIO ENRICO","MARFIA, GUSTAVO",{'weight': 0.1}
+"PALAZZI, CLAUDIO ENRICO",G. Pau,{'weight': 0.3}
+"ROCCETTI, MARCO","MARFIA, GUSTAVO",{'weight': 3.7}
+"ROCCETTI, MARCO",G. Pau,{'weight': 1.05}
+"MARFIA, GUSTAVO",G. Pau,{'weight': 0.45}
