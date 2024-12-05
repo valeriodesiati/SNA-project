@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"ROCCETTI, MARCO","MARFIA, GUSTAVO",{'weight': 3.7}
-"ROCCETTI, MARCO","AMOROSO, ALESSANDRO",{'weight': 1.4}
-"ROCCETTI, MARCO","VITALI, FABIO",{'weight': 0.05}
-"MARFIA, GUSTAVO","AMOROSO, ALESSANDRO",{'weight': 1.2}
-"MARFIA, GUSTAVO","VITALI, FABIO",{'weight': 0.05}
-"VITALI, FABIO","AMOROSO, ALESSANDRO",{'weight': 0.05}

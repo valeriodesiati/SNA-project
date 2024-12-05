@@ -1,7 +1,0 @@
-Source,Target,Attributes
-Stefano Pio Zingaro,Saverio Giallorenzo,{'weight': 0.1}
-Stefano Pio Zingaro,Ivan Lanese,{'weight': 0.05}
-Stefano Pio Zingaro,Davide Sangiorgi,{'weight': 0.05}
-Ivan Lanese,Saverio Giallorenzo,{'weight': 0.05}
-Ivan Lanese,Davide Sangiorgi,{'weight': 0.05}
-Davide Sangiorgi,Saverio Giallorenzo,{'weight': 0.05}

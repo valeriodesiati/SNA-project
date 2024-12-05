@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}
-"ROCCETTI, MARCO","MIRRI, SILVIA",{'weight': 1.2}
-"ROCCETTI, MARCO","PANTIERI, DANIELE",{'weight': 0.05}
-"SALOMONI, PAOLA","MIRRI, SILVIA",{'weight': 3.95}
-"SALOMONI, PAOLA","PANTIERI, DANIELE",{'weight': 0.1}
-"MIRRI, SILVIA","PANTIERI, DANIELE",{'weight': 0.1}

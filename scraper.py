@@ -55,7 +55,6 @@ def clean():
     df.to_csv('papers_data.csv', index=False)
 
 def main():
-    # url = 'https://disi.unibo.it/it/ricerca/pubblicazioni?&pagesize=100'
     url = 'https://disi.unibo.it/it/ricerca/pubblicazioni?&pagesize=7523'
     simple_scraper(url)
     clean()

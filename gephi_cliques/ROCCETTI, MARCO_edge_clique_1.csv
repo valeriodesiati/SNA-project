@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"CONFORTI, VITO","FERRETTI, STEFANO",{'weight': 0.05}
-"CONFORTI, VITO","MIRRI, SILVIA",{'weight': 0.05}
-"CONFORTI, VITO","ROCCETTI, MARCO",{'weight': 0.05}
-"ROCCETTI, MARCO","MIRRI, SILVIA",{'weight': 1.2}
-"ROCCETTI, MARCO","FERRETTI, STEFANO",{'weight': 2.95}
-"FERRETTI, STEFANO","MIRRI, SILVIA",{'weight': 0.9}

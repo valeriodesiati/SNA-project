@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"CASADEI, MATTEO","OMICINI, ANDREA",{'weight': 0.5}
-"CASADEI, MATTEO","NARDINI, ELENA",{'weight': 0.15}
-"CASADEI, MATTEO","GAFFURI, PIETRO",{'weight': 0.05}
-"OMICINI, ANDREA","NARDINI, ELENA",{'weight': 0.75}
-"OMICINI, ANDREA","GAFFURI, PIETRO",{'weight': 0.1}
-"GAFFURI, PIETRO","NARDINI, ELENA",{'weight': 0.1}

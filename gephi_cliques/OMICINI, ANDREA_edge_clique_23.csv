@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"OMICINI, ANDREA","CALEGARI, ROBERTA",{'weight': 0.3}
-"OMICINI, ANDREA","DENTI, ENRICO",{'weight': 1.4}
-"OMICINI, ANDREA","MARIANI, STEFANO",{'weight': 1.35}
-"DENTI, ENRICO","CALEGARI, ROBERTA",{'weight': 0.5}
-"DENTI, ENRICO","MARIANI, STEFANO",{'weight': 0.05}
-"CALEGARI, ROBERTA","MARIANI, STEFANO",{'weight': 0.05}

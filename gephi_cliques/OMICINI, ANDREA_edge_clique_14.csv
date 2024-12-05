@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"CASADEI, MATTEO","OMICINI, ANDREA",{'weight': 0.5}
-"CASADEI, MATTEO","VIROLI, MIRKO",{'weight': 1.45}
-"CASADEI, MATTEO","GARDELLI, LUCA",{'weight': 0.45}
-"OMICINI, ANDREA","VIROLI, MIRKO",{'weight': 4.15}
-"OMICINI, ANDREA","GARDELLI, LUCA",{'weight': 0.55}
-"GARDELLI, LUCA","VIROLI, MIRKO",{'weight': 0.9}

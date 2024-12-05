@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"PALAZZI, CLAUDIO ENRICO","ROCCETTI, MARCO",{'weight': 0.4}
-"PALAZZI, CLAUDIO ENRICO","MARFIA, GUSTAVO",{'weight': 0.1}
-"PALAZZI, CLAUDIO ENRICO",G. Pau,{'weight': 0.3}
-"ROCCETTI, MARCO","MARFIA, GUSTAVO",{'weight': 3.7}
-"ROCCETTI, MARCO",G. Pau,{'weight': 1.05}
-"MARFIA, GUSTAVO",G. Pau,{'weight': 0.45}

@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"ROCCETTI, MARCO","SALOMONI, PAOLA",{'weight': 2.55}
-"ROCCETTI, MARCO","MARFIA, GUSTAVO",{'weight': 3.7}
-"ROCCETTI, MARCO",G. Pau,{'weight': 1.05}
-"SALOMONI, PAOLA","MARFIA, GUSTAVO",{'weight': 0.25}
-"SALOMONI, PAOLA",G. Pau,{'weight': 0.15}
-"MARFIA, GUSTAVO",G. Pau,{'weight': 0.45}

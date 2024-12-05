@@ -1,7 +1,0 @@
-Source,Target,Attributes
-"OMICINI, ANDREA","DENTI, ENRICO",{'weight': 1.4}
-"OMICINI, ANDREA","CEVENINI, CLAUDIA",{'weight': 0.05}
-"OMICINI, ANDREA","CERNO, ITALO",{'weight': 0.05}
-"CEVENINI, CLAUDIA","DENTI, ENRICO",{'weight': 0.05}
-"CEVENINI, CLAUDIA","CERNO, ITALO",{'weight': 0.05}
-"DENTI, ENRICO","CERNO, ITALO",{'weight': 0.05}

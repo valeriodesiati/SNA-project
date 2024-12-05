@@ -1,4 +1,0 @@
-Source,Target,Attributes
-"OMICINI, ANDREA","TORRONI, PAOLO",{'weight': 0.65}
-"OMICINI, ANDREA","MILANO, MICHELA",{'weight': 0.1}
-"TORRONI, PAOLO","MILANO, MICHELA",{'weight': 0.1}

@@ -1,7 +1,0 @@
-Source,Target,Attributes
-Gianluigi Zavattaro,Saverio Giallorenzo,{'weight': 0.2}
-Gianluigi Zavattaro,Mario Bravetti,{'weight': 0.2}
-Gianluigi Zavattaro,Iacopo Talevi,{'weight': 0.05}
-Iacopo Talevi,Mario Bravetti,{'weight': 0.05}
-Iacopo Talevi,Saverio Giallorenzo,{'weight': 0.05}
-Mario Bravetti,Saverio Giallorenzo,{'weight': 0.1}

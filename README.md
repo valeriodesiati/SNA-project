@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ## Usage
 _Optional:_  Run the scraper to download the dataset:
 ```
-python3 scraper.py
+python scraper.py
 ```
 Run the main script to visualize the entire graph:
 ```
